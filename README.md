@@ -8,4 +8,4 @@
 
 
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489642152646&di=de58e80e6385a4d7c7a2d58582fcdc09&imgtype=0&src=http%3A%2F%2F2a.zol-img.com.cn%2Fproduct%2F121_940x705%2F212%2FceCHsHkUeUAis.jpg)
+![](../pic/timg.jpg)
