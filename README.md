@@ -8,4 +8,4 @@
 
 
 
-![](../pic/timg.jpg)
+![](/bobkentt/Learning-machine-from-scratch-/pic/timg.jpg)
