@@ -21,3 +21,6 @@
 
 ## 工具使用
 ### TensorFlow
+
+## 其它扯淡的
+### [3.各种分布](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/other/major-job/major-job.md)
