@@ -1,4 +1,5 @@
-# Index
+# Content
+
 ## 数学基础
 ### 微积分
 ### [1.泰勒展开式和拟牛顿](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch1/1.md)
