@@ -11,7 +11,8 @@
 * 贝叶斯公式
 ### [3.各种分布](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch2/3.md)
 * 各种分布：二项分布、均匀分布、泊松分布、几何分布、指数分布、正态分布 
-
+### [4.期望和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch3/ch3.md)
+### [4.协方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch4/ch4.md)
 ## 算法
 
 

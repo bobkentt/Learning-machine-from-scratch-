@@ -7,5 +7,7 @@
 欢迎更多的朋友加入进来和我一起，用通俗易懂的例子，尽量简单的数学基础，一起打开机器学习世界的窗户。
 
 
+目录：[点我](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/index.md)
+
 
 ![](./pic/timg.jpg)
