@@ -1,5 +1,5 @@
 # what is Learning-machine-from-scratch-?
-从零开始学习机器学习
+Learning-machine-from-scratch- is 从零开始学习机器学习
 有很多从零开始：从零开始学英语、学从零开始学炒股、从零开始学编程、从零开始学mysql...    
 
 机器学习的美，令笔者深深留恋，独乐乐不如众乐乐，正是缺少一个好的从零开始学习机器学习，于是有了这个项目。
