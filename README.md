@@ -10,4 +10,4 @@
 目录：[点我](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/index.md)
 
 
-![](./pic/timg.jpg)
+![](./other/pic/timg.jpg)
