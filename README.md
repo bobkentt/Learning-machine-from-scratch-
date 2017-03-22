@@ -14,5 +14,8 @@ Learning-machine-from-scratch- is 从零开始学习机器学习。
 [点我](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/index.md)
 
 ## 联系方式
-希望志同道合的朋友，一起打开机器学习的窗户
+希望志同道合的朋友，一起打开机器学习的窗户。
+
+
+
 QQ：478448281
