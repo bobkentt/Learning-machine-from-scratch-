@@ -21,8 +21,9 @@
 
 ## 必会的算法
 
-## 应用实践
 
+## 应用实践
+1.[机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/1.md)
 
 
 ## 工具使用
