@@ -20,8 +20,8 @@
 10. [重新理解矩阵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch9/ch9.md)
 
 ## 必会的算法
-1.[数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E5%BD%92%E4%B8%80%E5%8C%96%E9%97%AE%E9%A2%98.md)
-2.[数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%86%E7%B1%BB.md)
+1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E5%BD%92%E4%B8%80%E5%8C%96%E9%97%AE%E9%A2%98.md)
+2. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%86%E7%B1%BB.md)
 
 ## 应用实践
 1.[机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/1.md)
