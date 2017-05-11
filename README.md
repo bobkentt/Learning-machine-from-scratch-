@@ -23,11 +23,11 @@
 ### 模型的评估与检验
 1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E5%BD%92%E4%B8%80%E5%8C%96%E9%97%AE%E9%A2%98.md)
 2. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%86%E7%B1%BB.md)
-3. [如何调试学习算法]()
-4. [误差和方差]()
+3. [如何调试学习算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E5%A6%82%E4%BD%95%E8%B0%83%E8%AF%95%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.md)
+4. [误差和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E8%AF%AF%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE)
 
 ## 应用实践
-1.[机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/ml-hello-world program.md)
+1.[机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/ml-hello-world%20program.md)
 
 
 ## 工具使用
