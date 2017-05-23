@@ -32,8 +32,9 @@
 4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md)
 5. [梯度下降算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.md)
 
-### 各种模型
-5. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch2/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.md)
+### 回归
+1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch2/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.md)
+2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/logistic-regression/logisticRegression.md)
 
 ## 应用实践
 1.[机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/ml-hello-world%20program.md)
