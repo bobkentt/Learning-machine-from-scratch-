@@ -27,4 +27,4 @@
 
 ### 常用工具
 * spyder集成环境
-* Jupyter-notebook网页交互环境
+* **Jupyter-notebook**网页交互环境
