@@ -1,4 +1,4 @@
-# 损失函数
+# 损失函数 loss function
 
 ### concept
 学习算法的目标是找到最好的参数，然而怎么衡量这个最好的问题？运用损失函数loss function。
