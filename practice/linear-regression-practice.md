@@ -55,7 +55,7 @@ plt.ylabel('Profit in $10,000s');
 
 ![](./pic/20170527145408.jpg)
 
-### loss function
+### 损失函数（loss function）
 
 线性回归损失函数：
 
