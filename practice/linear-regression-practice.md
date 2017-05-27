@@ -86,6 +86,12 @@ def computeCost(X, y, theta=[[0],[0]]):
 
 ### 梯度下降算法
 
+#### 公式：
+
+根据梯度下降算法的推导公式：
+
+![](./pic/20170527192321.jpg)
+
 ```
 def gradientDescent(X, y, theta=[[0],[0]], alpha=0.01, num_iters=2000):
     m = y.size
