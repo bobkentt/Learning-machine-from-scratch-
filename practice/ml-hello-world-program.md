@@ -1,5 +1,5 @@
 
-# ml-hello-world program
+# ml-hello-world-program
 使用开源库scikit-learn，来写机器学习的第一个hello world程序。
 
 
