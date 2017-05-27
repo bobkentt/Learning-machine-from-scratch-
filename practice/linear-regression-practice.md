@@ -1,10 +1,10 @@
-# linear regression practice
+# 线性回归模型代码实战（linear regression practice）
 
-## brief
+## 摘要（brief）
 
 使用[python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)中搭建的python环境，一个线性回归的例子，最后用梯度下降算法做最优化。
 
-## 包导入
+## 包导入（package import）
 
 ```
 # %load ../../standard_import.txt
@@ -27,7 +27,7 @@ import seaborn as sns
 sns.set_context('notebook')
 sns.set_style('white')
 ```
-### 样本集导入
+### 样本集导入（sample set import）
 
 ```
 # 导入当前目录下的样本集文件linear_regression_data1.txt
@@ -43,7 +43,7 @@ y = np.c_[data[:,1]]
 
 ```
 
-### 画单变量的样本散点图
+### 画单变量的样本散点图（plot）
 
 ```
 plt.scatter(X[:,1], y, s=30, c='r', marker='x', linewidths=1)
@@ -84,7 +84,7 @@ def computeCost(X, y, theta=[[0],[0]]):
 * *更多运算请参考：
 [点我跳转查看官方文档](https://docs.scipy.org/doc/numpy/reference/routines.math.html)*
 
-### 梯度下降算法
+### 线性回归与梯度下降算法（linear regression and gradient descent）
 
 #### 公式：
 
@@ -103,7 +103,7 @@ def gradientDescent(X, y, theta=[[0],[0]], alpha=0.01, num_iters=2000):
     return (theta, J_history)
 ```
 
-### 画出每一次迭代和损失函数变化
+### 画出每一次迭代和损失函数变化(plot loss function)
 
 ```
 # 画出每一次迭代和损失函数变化
@@ -143,7 +143,7 @@ plt.legend(loc=4);
 更多关于scikit-learn LinearRegression 的使用方法：
 [点击链接下载](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 
-### 预测一下
+### 预测一下(predict)
 ```
 # 预测一下人口为35000和70000的城市的结果
 print(theta.T.dot([1, 3.5])*10000)
@@ -154,7 +154,7 @@ print(theta.T.dot([1, 7])*10000)
 [ 4519.7678677]
 [ 45342.45012945]
 
-### 完整的代码
+### 完整的代码(code download)
 [点击链接跳转完整的代码-](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/linear_regression_practice.ipynb)
 
 
