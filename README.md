@@ -39,6 +39,9 @@
 1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch2/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.md)
 2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/logistic-regression/logisticRegression.md)
 
+### 决策树 & 随机森林 & GBDT & XGBoost
+
+
 ## 应用实践
 1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [linear regression eg](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
