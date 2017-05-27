@@ -26,12 +26,12 @@
 
 ## 必会的算法
 ### 基本概念
-1. [机器学习分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%88%86%E7%B1%BB.md)
-2. [样本和特征](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%A0%B7%E6%9C%AC%E5%92%8C%E7%89%B9%E5%BE%81.md)
-3. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E5%BD%92%E4%B8%80%E5%8C%96%E9%97%AE%E9%A2%98.md)
-4. [过拟合和欠拟合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AD%A3%E5%88%99%E5%8C%96.md)
+1. [机器学习分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/the_division_of_ml.md)
+2. [样本和特征](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/sample_feature_label.md)
+3. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/data_normalization.md)
+4. [过拟合和欠拟合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/underfitting_vs_overfitting.md)
 ### 模型的评估与检验
-1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%86%E7%B1%BB.md)
+1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/dataset_classification.md)
 2. [如何调试学习算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/debug_ml_alg.md)
 3. [误差和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/Error%26variance.md)
 4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/loss_function.md)
