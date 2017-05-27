@@ -53,7 +53,7 @@
 
 ## 其它扯淡的
 ### [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/other/major-task/major-task.md)
-[点我](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/index.md)
+
 
 ## 联系方式
 志同道合的朋友加入进来吧。
