@@ -30,6 +30,8 @@
 2. [样本和特征](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/sample_feature_label.md)
 3. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/data_normalization.md)
 4. [过拟合和欠拟合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/underfitting_vs_overfitting.md)
+5. [正则化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/normalization.md)
+
 ### 模型的评估与检验
 1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/dataset_classification.md)
 2. [如何调试学习算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/debug_ml_alg.md)
