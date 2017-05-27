@@ -40,7 +40,7 @@
 5. [梯度下降算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/gradient_descent.md)
 
 ### 回归模型与应用
-1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch2/%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.md)
+1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch2/linear_regression_model.md)
 2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/logistic-regression/logisticRegression.md)
 
 ### 决策树 & 随机森林 & GBDT & XGBoost
@@ -56,7 +56,7 @@
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 
 ## 其它扯淡的
-### [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/other/major-task/major-task.md)
+1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/other/major-task/major-task.md)
 
 
 ## 联系方式
