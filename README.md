@@ -40,9 +40,9 @@
 2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/logistic-regression/logisticRegression.md)
 
 ## 应用实践
-1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world%20program.md)
+1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [linear regression eg](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
-3. [logistic regression eg](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/)
+3. [logistic regression eg](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
 
 
 ## 工具使用
