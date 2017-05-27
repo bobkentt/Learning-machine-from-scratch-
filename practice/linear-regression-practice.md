@@ -140,6 +140,9 @@ plt.legend(loc=4);
 
 ![](./pic/20170527200139.jpg)
 
+更多关于scikit-learn LinearRegression 的使用方法：
+[点击链接下载](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
 ### 预测一下
 ```
 # 预测一下人口为35000和70000的城市的结果
@@ -147,9 +150,11 @@ print(theta.T.dot([1, 3.5])*10000)
 print(theta.T.dot([1, 7])*10000)
 ```
 
-### 完整的代码
-[点击链接跳转完整的代码-](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/linear_regression_practice.ipynb)
-
 **预测结果**
 [ 4519.7678677]
 [ 45342.45012945]
+
+### 完整的代码
+[点击链接跳转完整的代码-](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/linear_regression_practice.ipynb)
+
+
