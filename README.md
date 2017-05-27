@@ -34,7 +34,7 @@
 1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%95%B0%E6%8D%AE%E9%9B%86%E5%88%86%E7%B1%BB.md)
 2. [如何调试学习算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E5%A6%82%E4%BD%95%E8%B0%83%E8%AF%95%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.md)
 3. [误差和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E8%AF%AF%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE)
-4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0.md)
+4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/loss_function.md)
 5. [梯度下降算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.md)
 
 ### 回归模型与应用
