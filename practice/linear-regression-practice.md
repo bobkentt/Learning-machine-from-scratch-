@@ -155,6 +155,6 @@ print(theta.T.dot([1, 7])*10000)
 [ 45342.45012945]
 
 ### 完整的代码(code download)
-[点击链接跳转完整的代码-](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/linear_regression_practice.ipynb)
+[点击链接跳转完整的代码](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/linear_regression_practice/linear_regression_practice.ipynb)
 
 
