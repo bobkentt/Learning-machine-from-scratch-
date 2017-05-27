@@ -1,4 +1,4 @@
-# 线性模型(linear model)
+# 线性回归（linear_regression_model）
 
 ## 模型描述
 线性模型通过线性组合来预测函数的值。
