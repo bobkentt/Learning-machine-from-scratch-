@@ -1,4 +1,4 @@
-# logistic Regression 模型
+# 逻辑回归（logistic Regression）
 
 ## 基本概念
 
