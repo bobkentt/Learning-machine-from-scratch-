@@ -26,22 +26,22 @@
 
 ## 必会的算法
 ### 基本概念
-1. [机器学习分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/the_division_of_ml.md)
-2. [样本和特征](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/sample_feature_label.md)
-3. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/data_normalization.md)
-4. [过拟合和欠拟合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/underfitting_vs_overfitting.md)
-5. [正则化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/normalization.md)
+1. [机器学习分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/the_division_of_ml.md)
+2. [样本和特征](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/sample_feature_label.md)
+3. [数据归一化问题](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/data_normalization.md)
+4. [过拟合和欠拟合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/underfitting_vs_overfitting.md)
+5. [正则化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/normalization.md)
 
 ### 模型的评估与检验
-1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/dataset_classification.md)
-2. [如何调试学习算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/debug_ml_alg.md)
-3. [误差和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/Error%26variance.md)
-4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/loss_function.md)
-5. [梯度下降算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/gradient_descent.md)
+1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/dataset_classification.md)
+2. [如何调试学习算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/debug_ml_alg.md)
+3. [误差和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/Error%26variance.md)
+4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/loss_function.md)
+5. [梯度下降算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/gradient_descent.md)
 
 ### 回归模型与应用
-1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch2/linear_regression_model.md)
-2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/logistic-regression/logisticRegression.md)
+1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/linear_regression_model.md)
+2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/logisticRegression.md)
 
 ### 决策树 & 随机森林 & GBDT & XGBoost
 
