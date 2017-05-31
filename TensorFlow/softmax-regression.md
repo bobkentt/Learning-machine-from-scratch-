@@ -1,3 +1,0 @@
-# softmax-regression
-
-# step

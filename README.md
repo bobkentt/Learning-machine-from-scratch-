@@ -56,7 +56,7 @@
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 
 ## 其它扯淡的
-1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/other/major-task/major-task.md)
+1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
 
 
 ## 联系方式
