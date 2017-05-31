@@ -4,10 +4,10 @@
 <font color=blue size=5 face="黑体">首先看一下数学符号表</font>
 
 
-  
-  
-![](math-symbol-list.png)
- 
+
+
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/math_base/pic/math-symbol-list.png)
+
 
 ## 从新的视角看线性代数
 
