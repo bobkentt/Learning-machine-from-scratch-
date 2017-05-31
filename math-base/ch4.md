@@ -15,4 +15,4 @@
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/math_base/pic/2017050171.png)
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/math_base/pic/2017050172.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/math_base/pic/20170501712.png)
