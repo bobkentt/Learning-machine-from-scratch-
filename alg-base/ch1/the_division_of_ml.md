@@ -1,5 +1,5 @@
 # 机器学习领域划分
-![](./clipboard1.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clipboard1.png)
 
 
 ### 描述：
@@ -13,7 +13,7 @@ Supervised learning又分为解决两类问题：
 * classification probleam
 * regression probleam
 
-![](./clipboard2.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clipboard2.png)
 ### Unsupervised learning
 Unsupervised learning分为聚类和数据降维两类算法，其中数据姜维算法包括PCA和T-sne等算法。
-![](./clipboard3.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clipboard3.png)

@@ -1,6 +1,6 @@
 # sample & feature & label
 
-![](./clipboard4.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clipboard4.png)
 
 上图中：
 * 每一行X是一个sample

@@ -11,10 +11,10 @@
 线性回归来举例说明：
 loss function:
 
-![](./20170521165348.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170521165348.png)
 
 加入正则化：
-![](./20170521-212109.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170521-212109.png)
 
 ## last
 通常情况下，我们加入的正则化有两种：

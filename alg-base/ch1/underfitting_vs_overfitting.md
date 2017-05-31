@@ -6,7 +6,7 @@
 * underfitting
 * overfitting
 
-![](./20170521204631.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170521204631.png)
 
 造成underfitting可能原因：
 * 训练不够

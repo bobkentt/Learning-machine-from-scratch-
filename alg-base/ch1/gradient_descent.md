@@ -1,7 +1,7 @@
 # 梯度下降法 gradient descent
 
 ### 原理
-![](./1.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/1.png)
 
 梯度下降法
 * 梯度学习算法做的事情就是最小化损失函数；
@@ -12,7 +12,7 @@
 
 在多元的情况下：
 
-![](./2.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/2.png)
 
 在多元情况下，拿偏导，其实是在垂直于等高线的方向上，做梯度下降的。
 
@@ -20,7 +20,7 @@
 非常重要的概念；
 在deep learning 神经网络中， 很多时候算法不收敛的原因就是学习率。
 
-![](./1.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/1.png)
 
 以线性回归模型为例：
   * 如果学习率α过大，会震荡的很厉害，甚至不收敛；
