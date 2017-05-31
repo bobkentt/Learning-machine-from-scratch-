@@ -26,4 +26,5 @@ linear regression在解决分类问题的时候健壮性很差，现实中很多
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704314.jpg)
 
-## 多分类问题
+## 代码实例
+[点击链接进入逻辑回归代码实战](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
