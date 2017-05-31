@@ -1,6 +1,6 @@
 # logistic Regression 模型
 
-## concept
+## 基本概念
 
 linear regression在解决分类问题的时候健壮性很差，现实中很多时候样本集中包含脏数据，例如电商数据中的刷单行为等。当噪声来的时候，模型很容易走偏。
 
