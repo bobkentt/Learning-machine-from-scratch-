@@ -21,8 +21,8 @@
 8. [矩估计](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch7.md)
 9. [极大似然估计](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch8.md)
 10. [重新理解矩阵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/ch9.md)
-11. [矩阵乘法规则](h-/blob/master/math-base/ch8.md)
-10. [重新理解矩阵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/matrix.md)
+11. [矩阵乘法规则](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math-base/matrix.md)
+
 
 ## 必会的算法
 ### 基本概念
