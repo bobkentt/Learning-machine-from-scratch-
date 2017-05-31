@@ -11,17 +11,17 @@
 
 # Content
 ## 必会的数学
-1. [泰勒展开式和拟牛顿](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/1.md)
-2. [PDF、CDF、条件概率、全概率公式、贝叶斯公式](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/2.md)
-3. [各种分布：二项分布 均匀分布 泊松分布 几何分布 指数分布 正态分布](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/3.md)
-4. [期望和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch3.md)
-5. [协方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch4.md)
-6. [偏度和峰度](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch5.md)
-7. [中心极限定理](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch6.md)
-8. [矩估计](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch7.md)
-9. [极大似然估计](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch8.md)
-10. [重新理解矩阵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/ch9.md)
-11. [矩阵乘法规则](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/matrix.md)
+1. [泰勒展开式和拟牛顿](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor .md)
+2. [PDF、CDF、条件概率、全概率公式、贝叶斯公式](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
+3. [各种分布：二项分布 均匀分布 泊松分布 几何分布 指数分布 正态分布](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/distribution.md)
+4. [期望和方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/expectation_variance.md)
+5. [协方差](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/cov.md)
+6. [偏度和峰度](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/skewness.md)
+7. [中心极限定理](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/central_limit.md)
+8. [矩估计](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/moment_estimation.md)
+9. [极大似然估计](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/MLE.md)
+10. [重新理解矩阵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/matrix.md)
+11. [矩阵乘法规则](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/matrix_multi.md)
 
 
 ## 必会的算法

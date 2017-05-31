@@ -1,6 +1,25 @@
-# 矩阵乘法规则
+# 重新理解矩阵
 
-![](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015090105.gif)
+## 序言
+<font color=blue size=5 face="黑体">首先看一下数学符号表</font>
 
-more关于矩阵乘法的理解：
-[](http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html)
+
+
+
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/math_base/pic/math-symbol-list.png)
+
+
+## 从新的视角看线性代数
+
+## 基
+
+
+## 子空间
+
+## 特征值分解ED
+
+### 对称矩阵的特征值分解
+
+## 二次型
+
+## SVD分解
