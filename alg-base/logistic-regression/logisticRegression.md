@@ -15,15 +15,15 @@ linear regression在解决分类问题的时候健壮性很差，现实中很多
 * 是0和1之间的一个值，不包括0和1
 * 当x取0的时候，y取0.5
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/201704312.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704312.jpg)
 
 ## decision boundary
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/201704313.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704313.png)
 
 ## 损失函数
 逻辑回归L2损失不是凸函数。
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/201704314.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704314.jpg)
 
 ## 多分类问题
