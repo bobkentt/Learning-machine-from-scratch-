@@ -19,17 +19,17 @@
 ### 最小二乘法
 基于均方误差最小化来进行模型求解的方法叫“最小二乘法”，在线性回归中，最小二乘法就是试图找到一条直线，使所有样本到直线上的欧式距离之和最小。
 
-![](./20170511184436.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/20170511184436.png)
 
 是一个凸函数，想下y=x^2是凸函数。对其关于w和x求偏导，得到：
 
-![](./20170511184601.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/20170511184601.png)
 
 令等式等于0，求得：
 
-![](./20170511185148.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/20170511185148.png)
 
-![](./20170511185242.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/20170511185242.png)
 
 更一般的情况：损失函数：
 
