@@ -34,6 +34,6 @@
 ### 线性回归与梯度下降GD
 梯度下降算法的细节在：
 
-[点此链接跳转到线性回归与梯度下降GD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg-base/ch1/gradient_descent.md)
+[点此链接跳转到线性回归与梯度下降GD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/ch1/gradient_descent.md)
 
 除了梯度下降算法外，还有牛顿法，拟牛顿法等等优化算法。
