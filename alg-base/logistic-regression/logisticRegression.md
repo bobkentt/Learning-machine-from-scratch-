@@ -4,7 +4,7 @@
 
 linear regression在解决分类问题的时候健壮性很差，现实中很多时候样本集中包含脏数据，例如电商数据中的刷单行为等。当噪声来的时候，模型很容易走偏。
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/201704311.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704311.jpg)
 
 在分类问题中希望有一个函数能输出分类，所以想到了在线性回归模型外加入一个压缩函数，logistics就是加入了sigmoid函数的广义线性模型。
 
