@@ -53,7 +53,7 @@ plt.ylabel('Profit in $10,000s');
 ```
 [更多关于scatter的用法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/lib-usage/scatter.md)
 
-![](./pic/20170527145408.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170527145408.jpg)
 
 ### 损失函数（loss function）
 
@@ -90,7 +90,7 @@ def computeCost(X, y, theta=[[0],[0]]):
 
 根据梯度下降算法的推导公式：
 
-![](./pic/20170527192321.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170527192321.jpg)
 
 ```
 def gradientDescent(X, y, theta=[[0],[0]], alpha=0.01, num_iters=2000):
@@ -115,7 +115,7 @@ plt.ylabel('Cost J')
 plt.xlabel('Iterations');
 ```
 
-![](./pic/20170527193711.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170527193711.jpg)
 
 ### 画出h曲线，并与scikit-learn库中的线性回归对比一下
 
@@ -138,7 +138,7 @@ plt.ylabel('Profit in $10,000s')
 plt.legend(loc=4);
 ```
 
-![](./pic/20170527200139.jpg)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170527200139.jpg)
 
 更多关于scikit-learn LinearRegression 的使用方法：
 [点击链接下载](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
@@ -156,5 +156,3 @@ print(theta.T.dot([1, 7])*10000)
 
 ### 完整的代码(code download)
 [点击链接跳转完整的代码](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/linear_regression_practice/linear_regression_practice.ipynb)
-
-
