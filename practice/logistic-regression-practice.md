@@ -76,4 +76,8 @@ def plotData(data, label_x, label_y, label_pos, label_neg, axes=None):
 ```
 
 * gca()返回当前的坐标实例（a matplotlib.axes.Axes instance）
-* legend
+* legend，[请参考](http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.legend)
+
+### 逻辑回归假设
+
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170601181201.jpg)
