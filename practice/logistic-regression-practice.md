@@ -81,3 +81,17 @@ def plotData(data, label_x, label_y, label_pos, label_neg, axes=None):
 ### 逻辑回归假设
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170601181201.jpg)
+
+#### 定义sigmod函数
+```
+#定义sigmoid函数
+def sigmoid(z):
+    return(1 / (1 + np.exp(-z)))
+```
+
+其实scipy包里有一个函数可以完成一样的功能:
+http://docs.scipy.org/doc/scipy/reference/generated/scipy.special.expit.html#scipy.special.expit
+
+### 损失函数
+
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170601182340.jpg)
