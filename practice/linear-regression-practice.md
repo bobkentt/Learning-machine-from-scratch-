@@ -51,7 +51,7 @@ plt.xlim(4,24)
 plt.xlabel('Population of City in 10,000s')
 plt.ylabel('Profit in $10,000s');
 ```
-[更多关于scatter的用法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/lib-usage/scatter.md)
+[更多关于scatter的用法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/[matplotlib_pyplot/scatter.md)
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170527145408.jpg)
 

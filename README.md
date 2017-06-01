@@ -54,7 +54,9 @@
 
 ## 工具使用
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
-
+2. matplotlib pyplot库的使用
+* [scatter](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/[matplotlib_pyplot/scatter.md)
+* [axis](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/[matplotlib_pyplot/axis.md)
 ## 其它扯淡的
 1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
 
