@@ -95,3 +95,5 @@ http://docs.scipy.org/doc/scipy/reference/generated/scipy.special.expit.html#sci
 ### 损失函数
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170601182340.jpg)
+
+###
