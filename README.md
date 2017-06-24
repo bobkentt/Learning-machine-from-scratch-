@@ -42,10 +42,10 @@
 ### 回归模型与应用
 1. [线性模型](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [逻辑回归](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
-3.[决策树](http://blog.csdn.net/nieson2012/article/details/51314873)
-4.[熵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
-5.[信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
-6.[随机森林](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
+3. [决策树](http://blog.csdn.net/nieson2012/article/details/51314873)
+4. [熵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
+5. [信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
+6. [随机森林](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 ### 决策树 & 随机森林 & GBDT & XGBoost
 
 
