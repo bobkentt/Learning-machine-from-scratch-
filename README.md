@@ -52,7 +52,10 @@
 
 ### 神经网络
 1. [神经元模型和感知机](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
-2. [误差逆传播算法]()
+2. [误差逆传播算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
+3. [全局最优和局部最优]()
+4. [其它常见神经网络]()
+5. [深度学习]()
 
 ## 应用实践
 1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
