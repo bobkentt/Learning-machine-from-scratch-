@@ -60,6 +60,13 @@
 4. [其它常见神经网络]()
 5. [深度学习]()
 
+### 支持向量机
+1. [间隔与支持向量]()
+2. [对偶问题]()
+3. [支持向量回归]()
+4. [核方法]()
+
+
 ## 应用实践
 1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
