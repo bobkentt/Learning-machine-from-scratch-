@@ -70,7 +70,8 @@
 
 
 ### 聚类
-1. [K-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
+1. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
+2. [k-means++]()
 
 ## 应用实践
 1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
