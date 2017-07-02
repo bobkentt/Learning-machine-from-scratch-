@@ -26,7 +26,7 @@
 12. [拉格朗日乘子法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Lagrange.md)
 13. [先验概率和后验概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Prior_probability.md)
 
-## 必会的算法
+## 必会的模型和算法
 ### 基本概念
 1. [机器学习分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/the_division_of_ml.md)
 2. [样本和特征](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/sample_feature_label.md)
@@ -53,19 +53,24 @@
 3. [信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
 4. [随机森林](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 
-### 神经网络
+### 神经网络模型
 1. [神经元模型和感知机](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
 2. [误差逆传播算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
 3. [全局最优和局部最优]()
 4. [其它常见神经网络]()
 5. [深度学习]()
 
-### 支持向量机
+### 支持向量机SVM模型
 1. [间隔与支持向量]()
 2. [对偶问题]()
 3. [支持向量回归]()
 4. [核方法]()
 
+### 贝叶斯网络BN
+
+
+### 聚类
+1. [K-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
 
 ## 应用实践
 1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
