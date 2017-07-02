@@ -69,6 +69,7 @@ initialization of Lloyd's methold random
 #### random initialization bad performance
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clustering/11.png)
 
+
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clustering/12.png)
 
 发生bad performance 的概率
@@ -77,7 +78,11 @@ initialization of Lloyd's methold random
 
 
 所以当k大一点的时候，random initialization是不行的。
+
+
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clustering/14.png)
 
 但是问题就是对抗噪声的能力差，如下图所示：
+
+
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/clustering/15.png)
