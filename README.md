@@ -27,7 +27,11 @@
 13. [先验概率和后验概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Prior_probability.md)
 
 ## 特征工程
-### 数据清洗
+### 数据清洗与数据采样
+1. [数据清洗]()
+2. [数据采样]()
+
+### 特征工程
 1. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
 
 ## 必会的模型和算法
