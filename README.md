@@ -26,6 +26,10 @@
 12. [拉格朗日乘子法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Lagrange.md)
 13. [先验概率和后验概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Prior_probability.md)
 
+## 特征工程
+### 数据清洗
+1. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
+
 ## 必会的模型和算法
 ### 基本概念
 1. [机器学习分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/the_division_of_ml.md)
