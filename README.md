@@ -25,6 +25,7 @@
 11. [矩阵乘法规则](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/matrix_multi.md)
 12. [拉格朗日乘子法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Lagrange.md)
 13. [先验概率和后验概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Prior_probability.md)
+14. [联合分布和边缘概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 
 ## 特征工程
 1. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
