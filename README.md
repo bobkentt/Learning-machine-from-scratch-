@@ -30,6 +30,7 @@
 ## 特征工程
 1. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
 2. [TF-IDF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/TF-idf.md)
+3. [模型选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
 
 ## 必会的模型和算法
 ### 基本概念
