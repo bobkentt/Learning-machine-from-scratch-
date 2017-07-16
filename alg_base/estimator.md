@@ -8,3 +8,6 @@ The flowchart below is designed to give users a bit of a rough guide on how to a
 Click on any estimator in the chart below to see its documentation.
 
 ![](http://scikit-learn.org/stable/_static/ml_map.png)
+
+
+[Jump to scikit-learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
