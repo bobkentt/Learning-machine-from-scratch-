@@ -28,10 +28,16 @@
 14. [联合分布和边缘概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 
 ## 特征工程
-1. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
-2. [TF-IDF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/TF-idf.md)
-3. [特征选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features.md)
-4. [模型选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
+1. [特征工程基本概念](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
+2. [数据采集](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_sample.md)
+3. [数据清洗](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_clean.md)
+4. [特征处理](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_handle.md)
+5. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
+6. [TF-IDF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/TF-idf.md)
+7. [特征选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features.md)
+8. [模型选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
+9. [模型效果优化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator_optimize.md)
+10. [模型融合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/model_ensemble.md)
 
 ## 必会的模型和算法
 ### 基本概念
@@ -42,6 +48,7 @@
 5. [正则化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/normalization.md)
 6. [泛化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/generalization.md)
 7. [容量](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Capacity.md)
+7. [学习曲线](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/learning_carve.md)
 
 ### 模型的评估与检验
 1. [数据集分类](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)

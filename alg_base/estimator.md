@@ -1,4 +1,6 @@
-Choosing the right estimator
+# Choosing the right estimator
+
+## 选择哪个模型
 Often the hardest part of solving a machine learning problem can be finding the right estimator for the job.
 
 Different estimators are better suited for different types of data and different problems.
@@ -11,3 +13,9 @@ Click on any estimator in the chart below to see its documentation.
 
 
 [Jump to scikit-learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
+## 模型参数
+交叉验证（cross validation）
+> 交叉验证集做参数/模型选择
+
+> 测试集只做模型效果评估
