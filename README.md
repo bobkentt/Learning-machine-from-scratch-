@@ -26,6 +26,7 @@
 12. [拉格朗日乘子法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Lagrange.md)
 13. [先验概率和后验概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Prior_probability.md)
 14. [联合分布和边缘概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
+15. [似然函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 
 ## 特征工程
 1. [特征工程基本概念](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
