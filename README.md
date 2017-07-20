@@ -27,6 +27,7 @@
 13. [先验概率和后验概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Prior_probability.md)
 14. [联合分布和边缘概率](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 15. [似然函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
+16. [共轭](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 
 ## 特征工程
 1. [特征工程基本概念](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
@@ -106,6 +107,9 @@
 ## 工具使用
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [matplotlib pyplot库的使用](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
+
+## 调参
+1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/tuning_e1.md)
 
 ## 其它扯淡的
 1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
