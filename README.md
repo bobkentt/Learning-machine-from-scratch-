@@ -109,7 +109,7 @@
 2. [matplotlib pyplot库的使用](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
 
 ## 调参
-1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/tuning_e1.md)
+1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 
 ## 其它扯淡的
 1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
