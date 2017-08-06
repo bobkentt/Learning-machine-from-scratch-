@@ -76,7 +76,7 @@
 3. [支持向量回归]()
 4. [核方法]()
 
-### 概率图模型
+### Probability diagram model
 1. [贝叶斯决策论]()
 2. [朴素贝叶斯]()
 3. [贝叶斯网]()
@@ -88,7 +88,7 @@
 1. [主体模型]()
 
 
-### 聚类
+### Clustering
 1. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
 2. [k-means++]()
 
@@ -98,9 +98,10 @@
 3. [logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
 
 
-## 工具使用
+## tools
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [matplotlib pyplot库的使用](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
+3. [TensorFlow入门]()
 
 ## 调参
 1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
