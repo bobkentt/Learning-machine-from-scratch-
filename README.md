@@ -84,29 +84,29 @@
 5. [马尔可夫随机场]()
 6. [条件随机场]()
 
-### 主体模型
-1. [主体模型]()
+### Theme model
+1. [Theme model]()
 
 
 ### Clustering
 1. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
 2. [k-means++]()
 
-## 应用实践
+## Practice
 1. [机器学习中的hello world](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
 
 
-## tools
+## Tools
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [matplotlib pyplot库的使用](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
 3. [TensorFlow入门]()
 
-## 调参
+## Tuning
 1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 
-## 其它扯淡的
+## Funs
 1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
 
 
