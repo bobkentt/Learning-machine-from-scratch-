@@ -22,17 +22,17 @@
 15. [似然函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 16. [共轭](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 
-## 特征工程
-1. [特征工程基本概念](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
-2. [数据采集](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_sample.md)
-3. [数据清洗](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_clean.md)
-4. [特征处理](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_handle.md)
-5. [one-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
+## Feature engineering
+1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
+2. [Feature samplimg](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_sample.md)
+3. [Featurecleaning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_clean.md)
+4. [Feature processing](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_handle.md)
+5. [One-hot](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
 6. [TF-IDF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/TF-idf.md)
-7. [特征选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features.md)
-8. [模型选择](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
-9. [模型效果优化](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator_optimize.md)
-10. [模型融合](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/model_ensemble.md)
+7. [Feature selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features.md)
+8. [model selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
+9. [Model effect optimization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator_optimize.md)
+10. [Model fusion](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/model_ensemble.md)
 
 ## Necessary model and algorithm knowledge
 
@@ -53,12 +53,12 @@
 4. [损失函数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/loss_function.md)
 5. [梯度下降算法](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 
-### LR model
+### Linear model
 1. [linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [LR model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
 
 ### Decision tree & Random forest & GBDT & XGBoost
-1. [决策树](http://blog.csdn.net/nieson2012/article/details/51314873)
+1. [Decision tree](http://blog.csdn.net/nieson2012/article/details/51314873)
 2. [熵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
 3. [信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
 4. [随机森林](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
