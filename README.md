@@ -90,8 +90,8 @@ All started from a learning-notes，Which is designed to help those who like me,
 
 
 ## Tools
-1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
-2. [matplotlib pyplot库的使用](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
+1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
+2. [matplotlib pyplot library manual](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
 3. [pandas的使用](http://www.cnblogs.com/chaosimple/p/4153083.html)
 4. [matplotlib的使用](https://zhuanlan.zhihu.com/p/24309547)
 5. [TensorFlow入门]()
@@ -99,8 +99,8 @@ All started from a learning-notes，Which is designed to help those who like me,
 ## Tuning
 1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 
-## Funs
-1. [机器学习工程师的日常](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
+## Jokes
+1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
 
 
 ## Join in us
