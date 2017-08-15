@@ -92,12 +92,12 @@ All started from a learning-notes，Which is designed to help those who like me,
 ## Tools
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [matplotlib pyplot library manual](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
-3. [pandas的使用](http://www.cnblogs.com/chaosimple/p/4153083.html)
-4. [matplotlib的使用](https://zhuanlan.zhihu.com/p/24309547)
-5. [TensorFlow入门]()
+3. [Learn pandas within 10 minutes](http://www.cnblogs.com/chaosimple/p/4153083.html)
+4. [matplotlib examples](https://zhuanlan.zhihu.com/p/24309547)
+5. [TensorFlow examples]()
 
 ## Tuning
-1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
+1. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 
 ## Jokes
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)

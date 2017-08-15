@@ -81,3 +81,23 @@ array([[ 1.,  0.,  0.,  1.,  0.,  0.,  1.,  0.,  0.]])
 * 前 2 位 1, 0，对 0 进行编码
 * 中间 3 位 0, 1, 0 对 1 进行编码；
 * 末尾 4 位 0, 1, 0, 0 对 1 进行编码；
+
+
+# pandas get_dummy
+另一种常用于统计建模或机器学习的转换方式是：将分类变量（categorical variable）转换为“哑变量矩阵”（dummy matrix）或“指标矩阵”（indicator matrix）。如果DataFrame的某一列中含有k个不同的值，则可以派生出一个k列矩阵或DataFrame（其值全为1和0）。pandas有一个get_dummies函数可以实现该功能（其实自己动手做一个也不难）。拿之前的一个例子来说：([本段转自](http://blog.csdn.net/eshaoliu/article/details/53557989))
+
+
+In [72]: df = pd.DataFrame({'key': ['b', 'b', 'a', 'c', 'a', 'b'],
+   ....:                    'data1': range(6)})
+
+In [73]: pd.get_dummies(df['key'])
+Out[73]:
+   a  b  c
+0  0  1  0
+1  0  1  0
+2  1  0  0
+3  0  0  1
+4  1  0  0
+5  0  1  0
+
+[6 rows x 3 columns]
