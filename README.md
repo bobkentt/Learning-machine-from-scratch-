@@ -97,14 +97,14 @@
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
-4. [Decision tree practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/Decision-tree-classification
--practice.md)
+4. [Decision tree practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/Decision-tree-classification-practice.md)
 
 ## Tools
 1. [python数据分析环境搭建](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [matplotlib pyplot库的使用](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
 3. [pandas的使用](http://www.cnblogs.com/chaosimple/p/4153083.html)
-4. [TensorFlow入门]()
+4. [matplotlib的使用](https://zhuanlan.zhihu.com/p/24309547)
+5. [TensorFlow入门]()
 
 ## Tuning
 1. [CNN的一个例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
