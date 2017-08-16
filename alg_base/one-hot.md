@@ -40,7 +40,7 @@ sklearn.preprocessing.OneHotEncoder
 
 one hot encoder 不仅对 label 可以进行编码，还可对 categorical feature 进行编码：
 
-'''
+```
 >>> from sklearn.preprocessing import OneHotEncoder
 >>> enc = OneHotEncoder()
 
@@ -54,7 +54,9 @@ array([0, 2, 5, 9])
 
 >>> enc.transform([[0, 1, 1]]).toarray()
 array([[ 1.,  0.,  0.,  1.,  0.,  0.,  1.,  0.,  0.]])
-'''
+
+
+```
 
 
 为 OneHotEncoder 类传递进来的数据集：
@@ -72,10 +74,10 @@ feature_indices_ 是对 n_values_ 的累积值，不过 feature_indices 的首�
 
 进一步通过 fit 好的 one hot encoder 对新来的特征向量进行编码：
 
-'''
+```
 >>> enc.transform([[0, 1, 1]]).toarray()
 array([[ 1.,  0.,  0.,  1.,  0.,  0.,  1.,  0.,  0.]])
-'''
+```
 
 * 前 2 位 1, 0，对 0 进行编码
 * 中间 3 位 0, 1, 0 对 1 进行编码；
@@ -85,7 +87,7 @@ array([[ 1.,  0.,  0.,  1.,  0.,  0.,  1.,  0.,  0.]])
 # pandas get_dummy
 另一种常用于统计建模或机器学习的转换方式是：将分类变量（categorical variable）转换为“哑变量矩阵”（dummy matrix）或“指标矩阵”（indicator matrix）。如果DataFrame的某一列中含有k个不同的值，则可以派生出一个k列矩阵或DataFrame（其值全为1和0）。pandas有一个get_dummies函数可以实现该功能（其实自己动手做一个也不难）。拿之前的一个例子来说：([本段转自](http://blog.csdn.net/eshaoliu/article/details/53557989))
 
-
+```
 In [72]: df = pd.DataFrame({'key': ['b', 'b', 'a', 'c', 'a', 'b'],
    ....:                    'data1': range(6)})
 
@@ -100,3 +102,4 @@ Out[73]:
 5  0  1  0
 
 [6 rows x 3 columns]
+```
