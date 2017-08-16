@@ -19,6 +19,7 @@
 * 每个类别下对应的变量统计值histogram(分布状况)
 * 试试 数值型 => 类别型
 
+[参考博文](http://www.cnblogs.com/chaosimple/p/4153167.html)
 
 ## 类别型
 ### 特征处理之类别型
