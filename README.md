@@ -65,7 +65,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 1. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
 2. [k-means++]()
 
-## Practice(手撸代码)
+## Practice
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
