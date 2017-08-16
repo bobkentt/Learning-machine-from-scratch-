@@ -1,5 +1,5 @@
 # Machine Learning from scratch
-All started from a learning-notes，
+All started from one learning-notes，
 
 Which is designed to help those who just has, simple mathematical foundation, a little programming ability, to open his or her AI trip.
 
