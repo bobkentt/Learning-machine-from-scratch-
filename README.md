@@ -106,4 +106,4 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 
 
 ## Join in us
-**<font color=red>Email:   bobkentt@163.com</font>**<br>
+**<font color=red>Email:   aaaaliyang@gmail.com</font>**<br>
