@@ -1,5 +1,5 @@
 # Learning machine from scratch
-All started from a learning-notes，Which is designed to help those who like me, simple mathematical foundation, a little programming ability, to open the AI trip
+All started from a learning-notes，Which is designed to help those who like me, simple mathematical foundation, a little programming ability, to open the AI trip.
 
 # Content
 ## Feature engineering
