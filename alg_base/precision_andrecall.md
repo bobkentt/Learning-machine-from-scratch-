@@ -66,6 +66,4 @@ RoC曲线和PR曲线
 
 ![pic](http://images2015.cnblogs.com/blog/1042406/201610/1042406-20161024164359046-1869944207.png)
 
-http://images2015.cnblogs.com/blog/1042406/201610/1042406-20161024164359046-1869944207.png
-
 内容参考自[博客](http://www.cnblogs.com/pinard/p/5993450.html)
