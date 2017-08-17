@@ -1,6 +1,6 @@
 # 损失函数 loss function
 
-### concept
+### 基本概念
 学习算法的目标是找到最好的参数，然而怎么衡量这个最好的问题？答案是**损失函数（loss function**。
 
 数据标签（label）与预测结果（predict）之间差距叫做损失，衡量损失的函数叫做损失函数（loss function）。
