@@ -1,4 +1,4 @@
-# 模型容量(Capacity)
+# 模型容量（Capacity）
 通俗的说就是你的model能够很好地表达examples的数量.
 
 > The ability of the learner (or called model) to discover a function 
