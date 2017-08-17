@@ -34,7 +34,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 5. [Gradient descent](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 ### Linear model
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
-2. [logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
+2. [Logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
 ### Decision tree & Random forest & GBDT & XGBoost
 1. [Decision tree](http://blog.csdn.net/nieson2012/article/details/51314873)
 2. [Entropy](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
