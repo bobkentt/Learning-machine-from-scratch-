@@ -1,4 +1,4 @@
-# 线性回归模型代码实战（linear regression practice）
+# 线性回归模型代码实战（Linear regression practice）
 
 ## 摘要（brief）
 
