@@ -68,8 +68,9 @@ plt.ylabel('Profit in $10,000s');
 def computeCost(X, y, theta=[[0],[0]]):
     m = y.size
     J = 0
-
-    h = X.dot(theta)
+    
+    # dot()函数用于计算矩阵乘法
+    h = X.dot(theta)
 
     J = 1.0/(2*m)*(np.sum(np.square(h-y)))
 
