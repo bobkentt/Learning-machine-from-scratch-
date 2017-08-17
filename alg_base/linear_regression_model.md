@@ -60,4 +60,5 @@
 关于梯度下降更多细节请参考[点我](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 
 ##代码实例
+
 手撸的[Linear regression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
