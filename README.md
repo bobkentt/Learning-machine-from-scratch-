@@ -33,6 +33,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 4. [Loss function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/loss_function.md)
 5. [Gradient descent](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 6. [Cross Validation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/CrossValidation.md)
+7. [Precision_and recall](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/precision_andrecall.md)
 ### Linear model
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [Logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
