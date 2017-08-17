@@ -13,13 +13,14 @@
 
 ![](http://images.cnitblog.com/blog2015/633472/201503/262042295678545.jpg)
 
+## 损失函数
+线性模型的损失函数采样范数是L2的损失函数。
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170511184436.png)
 
 ## 求解方法
 
 ### 最小二乘法
 基于均方误差最小化来进行模型求解的方法叫“最小二乘法”，在线性回归中，最小二乘法就是试图找到一条直线，使所有样本到直线上的欧式距离之和最小。
-
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170511184436.png)
 
 是一个凸函数，想下y=x^2是凸函数。对其关于w和x求偏导，得到：
 
