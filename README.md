@@ -38,9 +38,9 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [Logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
 ### Decision tree & Random forest & GBDT & XGBoost
-1. [Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/desicion_tree.md)
-2. [Entropy](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
-3. [Information gain](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
+1. [Entropy](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
+2. [Information gain](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
+3. [Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/desicion_tree.md)
 4. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 5. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
 ### Neural network model
