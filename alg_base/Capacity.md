@@ -5,7 +5,7 @@
 > taken from a family of functions.
 
 比如说，下面的几个predictor:
-
+```
 Linear predictor 
 y = wx + b
 
@@ -14,5 +14,5 @@ y = W2X^2 + W1X + b
 
 Degree-4 polynomial predictor 
 y = b+W1x+W2X^2+W3X^3+W4X^4
-
+```
 明显对于4次多项式函数，其能够capture更复杂的functions.
