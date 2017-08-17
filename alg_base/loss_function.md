@@ -1,14 +1,14 @@
 # 损失函数 loss function
 
 ### 基本概念
-学习算法的目标是找到最好的参数，然而怎么衡量这个最好的问题？答案是**损失函数（loss function**。
+学习算法的目标是找到最好的参数，然而怎么衡量这个最好的问题？答案是**损失函数（loss function)**。
 
-数据标签（label）与预测结果（predict）之间差距叫做损失，衡量损失的函数叫做损失函数（loss function）。
+数据标签（label）与预测结果（predict）之间差距叫做损失，衡量损失的函数叫做损失函数。
 
-在有监督学习（supervised learning）中，不同模型根据各自不同的目标，都会定义有各自的损失函数（loss function），例如：
-* 线性回归（linear regression）中的平方损失函数（loss function）；
-* 逻辑回归（logistic regression）中的log损失函数（loss function）；
-* svm算法中定义的hinge损失函数（loss function）；
+在有监督学习（supervised learning）中，不同模型根据各自不同的目标，都会定义有各自的损失函数，例如：
+* 线性回归（linear regression）中的平方损失函数；
+* 逻辑回归（logistic regression）中的log损失函数；
+* svm算法中定义的hinge损失函数；
 
 *有很多paper就是对损失函数做优化。*
 
