@@ -15,6 +15,7 @@
 
 ## 损失函数
 线性模型的损失函数采样范数是L2的损失函数。
+
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170511184436.png)
 
 ## 求解方法
