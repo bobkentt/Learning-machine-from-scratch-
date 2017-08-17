@@ -28,5 +28,4 @@ Test set:
 上小节数据集划分部分内容参考自博文[点击查看](http://blog.csdn.net/chl033/article/details/4671750)
 
 **scikit learn中sklearn.cross_validation模块提供数据集划分方法。**
-
 [link](http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.KFold.html#sklearn.cross_validation.KFold)
