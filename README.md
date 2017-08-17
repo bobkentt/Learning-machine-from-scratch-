@@ -25,13 +25,13 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 5. [Normalization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/normalization.md)
 6. [Generalization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/generalization.md)
 7. [Capacity](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Capacity.md)
-7. [Learning_carve](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/learning_carve.md)
+7. [Learning carve](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/learning_carve.md)
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
 2. [Debug the algorithm of machine learning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/debug_ml_alg.md)
 3. [Error and variance](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Error%26variance.md)
 4. [Loss function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/loss_function.md)
-5. [Gradient_descent](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
+5. [Gradient descent](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 ### Linear model
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
