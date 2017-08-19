@@ -40,5 +40,8 @@ linear regression在解决分类问题的时候健壮性很差，现实中很多
 
 cost(hθ(x),y)=−yilog(hθ(x))−(1−yi)log(1−hθ(x))
 
+## 损失函数最优化
+一般用gradient descent，如果需要分布式可以考虑L-BFGS
+
 ## 代码实例
 [点击链接进入逻辑回归代码实战](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
