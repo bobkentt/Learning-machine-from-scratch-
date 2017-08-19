@@ -56,8 +56,15 @@
 
 属性选择度量算法有很多，一般使用自顶向下递归分治法，并采用不回溯的贪心策略。这里介绍ID3和C4.5两种常用算法。
 
+### 信息熵和信息增益参考
+[信息熵](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
+[信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
 
+### ID3算法
+ID3算法就是在每次需要分裂时，计算每个属性的增益率，然后选择增益率最大的属性进行分裂。
 
+### C4.5算法
+[跳转链接](http://shiyanjun.cn/archives/428.html)
 
 本文转自[博文](http://www.cnblogs.com/leoo2sk/archive/2010/09/19/decision-tree.html)
 
