@@ -72,6 +72,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
 4. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
+5. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 
 
 ## Necessary mathematical knowledge
@@ -101,8 +102,6 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 5. [matplotlib examples](https://zhuanlan.zhihu.com/p/24309547)
 6. [TensorFlow examples]()
 
-## Tuning
-1. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 
 ## Jokes
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
