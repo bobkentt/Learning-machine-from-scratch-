@@ -7,3 +7,9 @@
 * 欠拟合(underfitting/high bias)
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170719-001228.png)
+
+
+## 应用中例子：
+[一个CNN调参的例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
+
+[做特征工程的例子](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
