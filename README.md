@@ -96,7 +96,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 
 ## Tools
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
-2. [Python and numpy tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-numpy-tutorial.ipynb)
+2. [Python and numpy tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/python-numpy-tutorial.ipynb)
 3. [matplotlib pyplot library manual](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
 4. [Learn pandas within 10 minutes](http://www.cnblogs.com/chaosimple/p/4153083.html)
 5. [matplotlib examples](https://zhuanlan.zhihu.com/p/24309547)
