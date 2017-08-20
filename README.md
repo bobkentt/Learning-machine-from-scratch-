@@ -71,7 +71,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
-4. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/decision_tree/decision_tree.ipynb)
+4. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
 
 
 ## Necessary mathematical knowledge
