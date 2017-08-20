@@ -94,7 +94,8 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 16. [Conjugate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 
 
-## Tools
+## Others
+1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [Python and numpy tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/python-numpy-tutorial.ipynb)
 3. [matplotlib pyplot library manual](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
@@ -102,10 +103,8 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 5. [matplotlib examples](https://zhuanlan.zhihu.com/p/24309547)
 6. [TensorFlow examples]()
 
-
-## Jokes
-1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
-
+## License
+This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 
 ## Join in us
 **<font color=red>Email:   aaaaliyang@gmail.com</font>**<br>
