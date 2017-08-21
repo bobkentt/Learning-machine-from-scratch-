@@ -26,6 +26,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 6. [Generalization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/generalization.md)
 7. [Capacity](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Capacity.md)
 7. [Learning carve](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/learning_carve.md)
+8. [RMSE and MAE](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/rmse_mae.md)
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
 2. [Debug the algorithm of machine learning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/debug_ml_alg.md)
@@ -73,6 +74,8 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
 4. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
 5. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
+6. [Recommendation system concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_system_codes.md)
+7. [Recommendation system practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_system_codes.md)
 
 
 ## Necessary mathematical knowledge
