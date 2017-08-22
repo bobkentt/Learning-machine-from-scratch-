@@ -38,6 +38,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 ### Linear model
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [Logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
+3. [Principal Component Analysis，PCA](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/pca.md)
 ### Decision tree & Random forest & GBDT & XGBoost
 1. [Entropy](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
 2. [Information gain](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
