@@ -44,8 +44,8 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 2. [Information gain](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
 3. [Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/desicion_tree.md)
 4. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
-5. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
-6. [GDBT](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
+5. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/bagging.md)
+6. [GDBT](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gdbt.md)
 7. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
 ### Neural network model
 1. [Neurons and Perceptrons](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
@@ -80,8 +80,11 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 ### Recommendation system
 6. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_basic_concept.md)
 7. [User behavior analysis](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_usr_behavior.md)
-8. [KNN algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/knn.md)
-8. [Recommendation system practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_system_codes.md)
+8. [Collaborative filtering](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_collaborative_filtering.md)
+9. [KNN algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/knn.md)
+8. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
+8. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
+10. [Recommendation system practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_system_codes.md)
 
 
 ## Necessary mathematical knowledge
