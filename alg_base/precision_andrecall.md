@@ -15,7 +15,7 @@
 精确率（Precision）:
 
 ```
-P=TP  /  (TP+FPP)
+P = TP / (TP+FP)
 
 ```
 
@@ -23,7 +23,7 @@ P=TP  /  (TP+FPP)
 
 
 ```
-R=TP /   (TP+FN)
+R = TP / (TP+FN)
 
 ```
 
