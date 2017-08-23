@@ -34,17 +34,19 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 4. [Loss function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/loss_function.md)
 5. [Gradient descent](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 6. [Cross Validation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/CrossValidation.md)
-7. [Precision_and recall](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/precision_andrecall.md)
+7. [Precision and recall](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/precision_andrecall.md)
 ### Linear model
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [Logistic refegression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
 3. [Principal Component Analysis，PCA](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/pca.md)
-### Decision tree & Random forest & GBDT & XGBoost
+### Decision tree model
 1. [Entropy](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
 2. [Information gain](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
 3. [Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/desicion_tree.md)
 4. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
-5. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
+5. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
+6. [GDBT](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
+7. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
 ### Neural network model
 1. [Neurons and Perceptrons](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
 2. [Back propagation algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
@@ -75,7 +77,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
 4. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
 5. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
-### Recommendation
+### Recommendation system
 6. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_basic_concept.md)
 7. [User behavior analysis](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_usr_behavior.md)
 8. [KNN algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/knn.md)
