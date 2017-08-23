@@ -11,16 +11,15 @@
 * True Negatives,TN：预测为负样本，实际也为负样本的特征数
 * False Negatives,FN：预测为负样本，实际为正样本的特征数
 
-2. 精确率(precision),召回率(Recall)与特异性(specificity)
 
-精确率（Precision）:
+### 精确率（Precision）:
 
 ```
 P = TP / (TP+FP)
 
 ```
 
-召回率(Recall)又称为查全率:
+### 召回率(Recall)又称为查全率:
 
 
 ```
