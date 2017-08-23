@@ -82,10 +82,9 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 7. [User behavior analysis](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_usr_behavior.md)
 8. [Collaborative filtering](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_collaborative_filtering.md)
 9. [KNN algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/knn.md)
-8. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
-8. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
-10. [Recommendation system practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_system_codes.md)
-
+10. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
+11. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
+12. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
 
 ## Necessary mathematical knowledge
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
