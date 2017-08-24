@@ -85,7 +85,9 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 10. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 11. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 12. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
-
+### NLP
+11. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
+12. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
 ## Necessary mathematical knowledge
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
 2. [Bayesian formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
