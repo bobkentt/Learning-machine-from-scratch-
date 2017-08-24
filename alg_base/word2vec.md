@@ -2,7 +2,7 @@
 ## 什么是word2vec
 word2vec 是 Google 在 2013 年年中开源的一款将词表征为实数值向量的高效 工具，采用的模型有 CBOW(Continuous Bag-Of-Words，即连续的词袋模型)和 Skip-Gram 两种。word2vec 代码链接为:https://code.google.com/p/word2vec/， 遵循 Apache License 2.0 开源协议，是一种对商业应用友好的许可，当然需要充 分尊重原作者的著作权。
 
-word2vec 一般被外界认为是一个 Deep Learning(深度学习)的模型，究其原 因，可能和 word2vec 的作者 Tomas Mikolov 的 Deep Learning 背景以及 word2vec 是一种神经网络模型相关，但我们谨慎认为该模型层次较浅，严格来说还不能算 是深层模型。当然如果 word2vec 上层再套一层与具体应用相关的输出层，比如 Softmax，此时更像是一个深层模型。
+word2vec 一般被外界认为是一个 Deep Learning(深度学习)的模型，究其原因，可能和 word2vec 的作者 Tomas Mikolov 的 Deep Learning 背景以及 word2vec 是一种神经网络模型相关，但我们谨慎认为该模型层次较浅，严格来说还不能算 是深层模型。当然如果word2vec上层再套一层与具体应用相关的输出层，比如 Softmax，此时更像是一个深层模型。
 
 word2vec 通过训练，可以把对文本内容的处理简化为 K 维向量空间中的向量 运算，而向量空间上的相似度可以用来表示文本语义上的相似度。因此，word2vec 输出的词向量可以被用来做很多 NLP 相关的工作，比如聚类、找同义词、词性分 析等等。而 word2vec 被人广为传颂的地方是其向量的加法组合运算(Additive Compositionality )， 官 网 上 的 例 子 是 : vector('Paris') - vector('France') + vector('Italy')≈vector('Rome')，vector('king') - vector('man') + vector('woman')≈ vector('queen')。但我们认为这个多少有点被过度炒作了，很多其他降维或主题 模型在一定程度也能达到类似效果，而且 word2vec 也只是少量的例子完美符合 这种加减法操作，并不是所有的 case 都满足。
 
