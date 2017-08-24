@@ -14,6 +14,9 @@ word2vec 大受欢迎的另一个原因是其高效性，Mikolov 在论文[2]中
 ### 词向量
 1. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
 2. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
+### 主要思想
+**说起来word2vec，其实就是把词映射成一定维度的稠密向量，同时保持住词和词之间的关联性，主要体现在(欧式)距离的远近上。**
+
 ### 统计语言模型
 传统的统计语言模型是表示语言基本单位(一般为句子)的概率分布函数， 这个概率分布也就是该语言的生成模型。一般语言模型可以使用各个词语条件概 率的形式表示:
 
