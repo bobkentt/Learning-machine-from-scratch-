@@ -25,5 +25,8 @@ rui = pu.T().dot(qi)
 
 
 ```
-# 损失函数
+
+## 损失函数
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170827-153201.png)
+
+## 随机梯度下降求解puk和qik向量 
