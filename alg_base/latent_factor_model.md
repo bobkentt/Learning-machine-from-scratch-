@@ -26,4 +26,4 @@ rui = pu.T().dot(qi)
 
 ```
 # 损失函数
-!()[https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170827-153201.png]
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170827-153201.png)
