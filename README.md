@@ -57,7 +57,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 1. [Interval and support vector]()
 2. [Dual problem]()
 3. [SVM regression]()
-4. [kernel method]()
+4. [Kernel method]()
 ### Probability diagram model
 1. [Bayesian decision theory]()
 2. [Naive Bayesian]()
@@ -85,6 +85,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 10. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 11. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 12. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
+13. [Latent factor model, LFM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/latent_factor_model.md)
 ### NLP
 11. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
 12. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
