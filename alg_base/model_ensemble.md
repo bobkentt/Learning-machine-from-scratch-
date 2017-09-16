@@ -7,6 +7,10 @@ Ensemble Learnig 是一组individual learner的组合
 
 > 如果individual learner异质，称为component learner
 
+## 集成学习分类
+根据个体学习器间存在的关系，目前集成学习大致可以分为两大类：
+* 个体学习器存在强依赖关系，必须串行生成的序列化方法(Boosting)；
+* 个体学习器不存在强依赖关系，可以并行生成（Bagging、Random Forest）；
 
 ## Why?
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/20170719-003836.png)
