@@ -51,8 +51,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 8. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Bagging.md)
 9. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 10. [Boosting](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Boosting.md)
-11. [GDBT](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gdbt.md)
-12. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
+11. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
 ### Neural network model
 1. [Neurons and Perceptrons](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
 2. [Back propagation algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
