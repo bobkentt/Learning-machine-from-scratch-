@@ -48,7 +48,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 5. [Division selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Division_selection.md)
 6. [Generate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/decision_tree_generate.md)
 7. [Pruning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Pruning.md)
-8. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/bagging.md)
+8. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Bagging.md)
 9. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 10. [Boosting](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Boosting.md)
 11. [GDBT](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gdbt.md)
