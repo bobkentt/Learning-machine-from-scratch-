@@ -73,8 +73,9 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 ### Theme model
 1. [Theme model]()
 ### Clustering
-1. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_k_means.md)
-2. [k-means++]()
+1. [Concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_concept.md)
+2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
+3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
 
 ## Practice
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
