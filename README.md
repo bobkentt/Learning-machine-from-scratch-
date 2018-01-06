@@ -27,6 +27,8 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 7. [Capacity](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Capacity.md)
 7. [Learning carve](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/learning_carve.md)
 8. [RMSE and MAE](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/rmse_mae.md)
+arve.md)
+9. [MSE](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/mse.md)
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
 2. [Debug the algorithm of machine learning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/debug_ml_alg.md)
