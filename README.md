@@ -4,6 +4,8 @@ All started from one learning-notes，
 Which is designed to help those who just has, simple mathematical foundation, a little programming ability, to open his or her AI trip.
 
 # Content
+[what is meaching learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
+
 ## Feature engineering
 1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
 2. [Feature sampling](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_sample.md)
