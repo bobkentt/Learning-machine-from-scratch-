@@ -59,9 +59,7 @@ arve.md)
 ### Neural network model
 1. [Neurons and Perceptrons](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
 2. [Back propagation algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
-3. [Global optimal and local optimal]()
-4. [Others]()
-5. [Deep learning]()
+3. [More about Deep learning,click and go to my other project](https://github.com/bobkentt/deep-learning-note)
 ### SVM
 1. [Interval and support vector]()
 2. [Dual problem]()
