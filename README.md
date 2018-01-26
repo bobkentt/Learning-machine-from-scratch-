@@ -116,7 +116,7 @@ arve.md)
 14. [Joint distribution and edge probability](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 15. [Likelihood function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 16. [Conjugate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
-
+17. [Hessian Matrix](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Hessian_Matrix.md)
 
 ## Others
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
