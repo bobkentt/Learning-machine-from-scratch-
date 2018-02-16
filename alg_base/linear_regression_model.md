@@ -53,7 +53,7 @@
 ![](http://images.cnblogs.com/cnblogs_com/LeftNotEasy/WindowsLiveWriter/1_1270E/image_thumb_12.png)
 
 
-下面是更新的过程，也就是θi会向着梯度最小的方向进行减少。θi表示更新之前的值，-后面的部分表示按梯度方向减少的量，α表示步长，也就是每次按照梯度减少的方向变化多少。
+下面是更新的过程，也就是θi会向着梯度最小的方向进行减少。θi表示更新之前的值，后面的部分表示按梯度方向减少的量，α表示步长，也就是每次按照梯度减少的方向变化多少。
 
 ![](http://images.cnblogs.com/cnblogs_com/LeftNotEasy/WindowsLiveWriter/1_1270E/image_thumb_14.png)
 
