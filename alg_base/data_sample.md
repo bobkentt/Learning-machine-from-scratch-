@@ -22,3 +22,5 @@
 3. 修改损失函数（loss function）。
 
 假设正样本数比负样本数远大，则会照顾正样本。所以应该调整代价。
+
+[关于下采样和上采样，请参考](https://www.cnblogs.com/han1ning1/p/6924404.html)
