@@ -1,6 +1,5 @@
 # Choosing the right estimator
 
-## 选择哪个模型
 Often the hardest part of solving a machine learning problem can be finding the right estimator for the job.
 
 Different estimators are better suited for different types of data and different problems.
