@@ -1,11 +1,9 @@
 # 模型融合
 
 ## 模型融合（model ensemble）是什么
-Ensemble Learnig 是一组individual learner的组合
-
-> 如果individual learner同质，称为base learner
-
-> 如果individual learner异质，称为component learner
+Ensemble Learnig 是一组individual learner的组合：
+* 如果individual learner同质，称为base learner
+* 如果individual learner异质，称为component learner
 
 ## 集成学习分类
 根据个体学习器间存在的关系，目前集成学习大致可以分为两大类：
@@ -13,7 +11,7 @@ Ensemble Learnig 是一组individual learner的组合
 * 个体学习器不存在强依赖关系，可以并行生成（Bagging、Random Forest）；
 
 ## Why?
-![](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/20170719-003836.png)
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/tree/master/alg_base/pic20170719-003836.png)
 
 ## Brief
 
