@@ -27,5 +27,6 @@ Ensemble Learnig 是一组individual learner的组合：
 ### stacking
 用多种predictor结果作为特征训练
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/20170719-004725.png)
-### Adaboost
-[参考博文，不赘述](http://blog.csdn.net/google19890102/article/details/46376603)
+### boosting
+[adaboost参考博文，点我跳转。](http://blog.csdn.net/google19890102/article/details/46376603)
+[gdbt参考博文，点我跳转。](https://www.cnblogs.com/ModifyRong/p/7744987.html)
