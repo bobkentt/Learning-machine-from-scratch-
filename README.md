@@ -117,7 +117,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 17. [Hessian Matrix](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Hessian_Matrix.md)
 
 ## Others
-1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/funny/major_task.md)
+1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [Python and numpy tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/python-numpy-tutorial.ipynb)
 3. [matplotlib pyplot library manual](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
