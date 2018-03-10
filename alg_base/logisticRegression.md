@@ -1,23 +1,25 @@
 # 逻辑回归（logistic Regression）
 
 ## 基本概念
+线性模型在解决分类问题的时候健壮性很差，现实中很多时候样本集中包含脏数据，例如电商数据中的刷单行为等。当噪声来的时候，模型很容易走偏。
 
-linear regression在解决分类问题的时候健壮性很差，现实中很多时候样本集中包含脏数据，例如电商数据中的刷单行为等。当噪声来的时候，模型很容易走偏。
+在分类问题中希望有一个函数能输出分类，可以在线性回归模型外加入一个压缩函数，逻辑回归（logistics model）就是加入了sigmoid函数作为压缩函数的广义线性模型。
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704311.jpg)
+## Sigmoid压缩函数
+Sigmoid函数由下列公式定义:
 
-在分类问题中希望有一个函数能输出分类，所以想到了在线性回归模型外加入一个压缩函数，logistics就是加入了sigmoid函数的广义线性模型。
+![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D99/sign=a46bd6f1dd33c895a27e9472d01340df/0df3d7ca7bcb0a4659502a5f6f63f6246b60af62.jpg)
 
-## sigmoid压缩函数，
-* y =1  /  (  1 + e^(-z) )
-* 逻辑回归是对概率p做拟合
-* 在神经网络中有重要的应用
-* 是0和1之间的一个值，不包括0和1
-* 当x取0的时候，y取0.5
+Sigmoid函数图例：
 
-![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704312.jpg)
+![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=ba0ac7a864061d957d46303e43cf6dec/d009b3de9c82d158dfb4e7218a0a19d8bc3e426f.jpg)
 
-## decision boundary
+Sigmoid函数是对概率p做拟合，是0和1之间的一个值（不包括0和1），当x取0的时候，y取0.5。
+
+其对x的导数可以用自身表示:
+![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D236/sign=375012cedfca7bcb797bc02c88086b3f/64380cd7912397dde41ab3095182b2b7d0a2875f.jpg)
+
+## 决策边界（decision boundary）
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/alg_base/pic/201704313.png)
 
