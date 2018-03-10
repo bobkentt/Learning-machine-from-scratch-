@@ -38,9 +38,9 @@ Sigmoid函数是对概率p做拟合，是0和1之间的一个值（不包括0和
 
 当y=0时，推理过程跟上述完全一致，不再累赘。
 
-将以上两个表达式合并为一个，则单个样本的损失函数可以描述为： 
+将以上两个表达式合并为一个，则单个样本的损失函数可以描述为:
 
-cost(hθ(x),y)=−yilog(hθ(x))−(1−yi)log(1−hθ(x))
+![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/practice/pic/20170601182340.jpg)
 
 ## 损失函数最优化
 一般用gradient descent，如果需要分布式可以考虑L-BFGS
