@@ -48,4 +48,4 @@ Sigmoid函数是对概率p做拟合，是0和1之间的一个值（不包括0和
 一般用gradient descent，如果需要分布式可以考虑L-BFGS
 
 ## 代码实例
-[点击链接进入逻辑回归代码实战](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
+[点击链接进入逻辑回归代码实战](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)

@@ -83,7 +83,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 ## Practice
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
-3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/logistic-regression-practice.md)
+3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
 4. [Linear regression with tensorflow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
 5. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
 6. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
