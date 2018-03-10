@@ -124,8 +124,8 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 3. [matplotlib pyplot library manual](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/matplotlib_pyplot/content.md)
 4. [Learn pandas within 10 minutes](http://www.cnblogs.com/chaosimple/p/4153083.html)
 5. [matplotlib examples](https://zhuanlan.zhihu.com/p/24309547)
-6. [TensorFlow examples]()
-
+6. [TensorFlow examples](https://developers.google.cn/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
+7. [intro to pandas](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=zh-cn#scrollTo=TIFJ83ZTBctl)
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 
