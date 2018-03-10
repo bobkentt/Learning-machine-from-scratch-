@@ -6,18 +6,20 @@
 在分类问题中希望有一个函数能输出分类，可以在线性回归模型外加入一个压缩函数，逻辑回归（logistics model）就是加入了sigmoid函数作为压缩函数的广义线性模型。
 
 ## Sigmoid压缩函数
-Sigmoid函数由下列公式定义:
-
-![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D99/sign=a46bd6f1dd33c895a27e9472d01340df/0df3d7ca7bcb0a4659502a5f6f63f6246b60af62.jpg)
-
 Sigmoid函数图例：
 
 ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=ba0ac7a864061d957d46303e43cf6dec/d009b3de9c82d158dfb4e7218a0a19d8bc3e426f.jpg)
 
-Sigmoid函数是对概率p做拟合，是0和1之间的一个值（不包括0和1），当x取0的时候，y取0.5。
+
+Sigmoid函数由下列公式定义:
+
+![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D99/sign=a46bd6f1dd33c895a27e9472d01340df/0df3d7ca7bcb0a4659502a5f6f63f6246b60af62.jpg)
 
 其对x的导数可以用自身表示:
 ![](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D236/sign=375012cedfca7bcb797bc02c88086b3f/64380cd7912397dde41ab3095182b2b7d0a2875f.jpg)
+
+Sigmoid函数是对概率p做拟合，是0和1之间的一个值（不包括0和1），当x取0的时候，y取0.5。
+
 
 ## 决策边界（decision boundary）
 
