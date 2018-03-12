@@ -2,7 +2,7 @@
 
 决策树学习的关键在于如何选择最优的划分属性。
 
-一般而言，随着划分的不断进行，我们希望决策树的分支结点所包含的样本尽可能属于同一类别。即结点的纯度(purity)越来越好。
+一般而言，随着划分的不断进行，我们希望决策树的分支结点所包含的样本尽可能属于同一类别（即结点的纯度(purity)越来越高）。
 
 判断结点的纯度的主要方法：
 * [信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)；
