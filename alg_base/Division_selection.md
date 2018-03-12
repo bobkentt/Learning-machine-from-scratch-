@@ -4,9 +4,10 @@
 
 一般而言，随着划分的不断进行，我们希望决策树的分支结点所包含的样本尽可能属于同一类别。即结点的纯度(purity)越来越好。
 
-判断结点的纯度的主要方法：[信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)、
-[增益比](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGainRadio.md)
-和[基尼指数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/GiniIndex.md)
+判断结点的纯度的主要方法：
+* [信息增益](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)；
+* [增益比](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGainRadio.md)；
+* [基尼指数](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/GiniIndex.md)；
 
 ## 主要算法
 决策树的划分选择主要包括ID3、C4.5和CART。
