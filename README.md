@@ -45,6 +45,9 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 3. [Principal Component Analysis，PCA](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/pca.md)
 4. [LDA](http://www.cnblogs.com/LeftNotEasy/archive/2011/01/08/lda-and-pca-machine-learning.html)
 5. [Softmax](http://ufldl.stanford.edu/wiki/index.php/Softmax%E5%9B%9E%E5%BD%92)
+6. [Example code of linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
+7. [Example code of logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
+8. [Example code of linear regression with tensorflow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
 ### Decision tree model
 1. [Entropy](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
 2. [Information gain](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/InformationGain.md)
