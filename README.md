@@ -54,6 +54,7 @@ Which is designed to help those who just has, simple mathematical foundation, a 
 3. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 4. [Boosting](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Boosting.md)
 5. [XGBoost](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/xgboost.md)
+6. [Implement decision tree algorithm in python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 ### Neural network model
 1. [Neurons and Perceptrons](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
 2. [Back propagation algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
