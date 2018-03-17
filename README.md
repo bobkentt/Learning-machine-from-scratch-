@@ -3,6 +3,8 @@ All started from one learning-notes，
 
 Which is designed to help those who just has, simple mathematical foundation, a little programming ability, to open his or her AI trip.
 
+There are a lot of shortcomings to be improved.
+
 # Content
 [what is machine learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
 
