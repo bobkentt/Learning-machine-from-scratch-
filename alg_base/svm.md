@@ -1,4 +1,4 @@
-# Svm tutorial
+# A tutorial of SVM
 **Alexandre KOWALCZYK大神的SVM Tutorial写的非常好了，这里直接给出链接，以及我在网上看到的几篇比较好的blog。**
 
 * [Alexandre KOWALCZYK大神的SVM Tutorial](http://www.svm-tutorial.com/svm-tutorial/)
