@@ -61,7 +61,7 @@ There are a lot of shortcomings to be improved.
 2. [Back propagation algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
 3. [More about Deep learning,click and go to my other project](https://github.com/bobkentt/deep-learning-note)
 ### SVM
-1. [Interval and support vector](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/svm.md)
+1. [A tutorial of SVM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/svm.md)
 2. [Dual problem]()
 3. [SVM regression]()
 4. [Kernel method]()
