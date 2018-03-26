@@ -72,6 +72,7 @@ There are a lot of shortcomings to be improved.
 4. [HMM]()
 5. [Markov Random Field]()
 6. [Conditional random field,CRF]()
+7. [Maximum entropy model]()
 ### Theme model
 1. [Theme model]()
 ### Clustering
@@ -79,7 +80,7 @@ There are a lot of shortcomings to be improved.
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
 
-## Practice
+## Code examples
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
