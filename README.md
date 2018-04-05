@@ -88,7 +88,12 @@ There are a lot of shortcomings to be improved.
 8. [Dropout](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Dropout.md)
 ### CNN in tensorflow
 
+**...To be updated...**
+
 ### RNN & LSTM
+
+
+**...To be updated...**
 
 ## Code examples
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
