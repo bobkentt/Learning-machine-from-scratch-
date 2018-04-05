@@ -80,6 +80,20 @@ There are a lot of shortcomings to be improved.
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
 
+## Deep learning
+### Basic concept
+1. [Perceptron](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/perceptron.md)
+2. [Neural Networks](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/neural_network.md)
+3. [Activation functions summary](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Activation.md)
+4. [Why go deeper?](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/go_deeper.md)
+5. [BP algorithm](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/bp_algorithm.md)
+6. [Cost function of deep learning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/cost.md)
+7. [Regularization in deeplearning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Regularization.md)
+8. [Dropout](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Dropout.md)
+### CNN in tensorflow
+
+### RNN & LSTM
+
 ## Code examples
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
