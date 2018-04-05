@@ -51,6 +51,7 @@ There are a lot of shortcomings to be improved.
 7. [Example code of logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
 8. [Example code of linear regression with TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/linear_model_by_tensorflow.ipynb)
 9. [Example code of logistic regression with TensorFlow from Google tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
+10. [Feature engineering of linear model with tensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/synthetic_features_and_outliers.ipynb)
 ### Decision tree family models
 1. [Principles of Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Principles_of_Decision_tree.md)
 2. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Bagging.md)
