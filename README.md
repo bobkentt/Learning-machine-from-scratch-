@@ -49,7 +49,8 @@ There are a lot of shortcomings to be improved.
 5. [Softmax](http://ufldl.stanford.edu/wiki/index.php/Softmax%E5%9B%9E%E5%BD%92)
 6. [Example code of linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 7. [Example code of logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
-8. [Example code of linear regression with tensorflow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
+8. [Example code of linear regression with TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/linear_model_by_tensorflow.ipynb)
+9. [Example code of logistic regression with TensorFlow from Google tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
 ### Decision tree family models
 1. [Principles of Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Principles_of_Decision_tree.md)
 2. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Bagging.md)
