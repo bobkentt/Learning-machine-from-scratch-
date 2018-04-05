@@ -142,7 +142,9 @@ There are a lot of shortcomings to be improved.
 4. [Learn pandas within 10 minutes](http://www.cnblogs.com/chaosimple/p/4153083.html)
 5. [matplotlib examples](https://zhuanlan.zhihu.com/p/24309547)
 6. [TensorFlow examples](https://developers.google.cn/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
-7. [intro to pandas](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=zh-cn#scrollTo=TIFJ83ZTBctl)
+7. [Intro to pandas](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=zh-cn#scrollTo=TIFJ83ZTBctl)
+8. [TensorFlow Tutorial by Bharath Ramsundar](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 
