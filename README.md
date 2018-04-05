@@ -56,10 +56,6 @@ There are a lot of shortcomings to be improved.
 3. [Random forest](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/RandomForest.md)
 4. [Boosting](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Boosting.md)
 5. [Implement decision tree algorithm in python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
-### Neural network model
-1. [Neurons and Perceptrons](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/neural_network.md)
-2. [Back propagation algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/BackPropagation.md)
-3. [More about Deep learning,click and go to my other project](https://github.com/bobkentt/deep-learning-note)
 ### SVM
 1. [A tutorial of SVM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/svm.md)
 2. [Dual problem]()
