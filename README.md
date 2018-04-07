@@ -152,6 +152,8 @@ There are a lot of shortcomings to be improved.
 6. [TensorFlow examples](https://developers.google.cn/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
 7. [Intro to pandas](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?hl=zh-cn#scrollTo=TIFJ83ZTBctl)
 8. [TensorFlow Tutorial by Bharath Ramsundar](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+9. [TensorFlow Tutorial‘s videos by morvanzhou](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/1-1-C-gradient-descent/)
+10. [TensorFlow 1.x Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook)
 
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
