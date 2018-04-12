@@ -12,7 +12,7 @@ There are a lot of shortcomings to be improved.
 
 # Content
 ## Introduction
-1. [what is machine learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
+1. [What is machine learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
 2. [A mind map of machine learning algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/MachineLearningAlgorithms.png)
 
 ## Machine learning algorithms and deep learning algorithms
