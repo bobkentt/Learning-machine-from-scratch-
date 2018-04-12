@@ -7,6 +7,7 @@ The project mainly consists of three parts：
 * Mathematical basics related to machine learning
 * Machine learning algorithms and deep learning algorithms
 * Some applications using machine learning algorithms
+* Some tools of machine learning 
 
 There are a lot of shortcomings to be improved.
 
@@ -146,7 +147,7 @@ There are a lot of shortcomings to be improved.
 15. [Likelihood function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 16. [Conjugate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 17. [Hessian Matrix](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Hessian_Matrix.md)
-## Others
+## Some tools of machine learning
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [Python and numpy tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/python-numpy-tutorial.ipynb)
@@ -158,6 +159,7 @@ There are a lot of shortcomings to be improved.
 8. [TensorFlow Tutorial by Bharath Ramsundar](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 9. [TensorFlow Tutorial‘s videos by morvanzhou](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/1-1-C-gradient-descent/)
 10. [TensorFlow 1.x Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook)
+11. [Tutorial of Keras by Chinese](http://keras-cn.readthedocs.io/en/latest/)
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 ## Join in us
