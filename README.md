@@ -3,26 +3,20 @@ All started from one learning-notes，
 
 Which is designed to help those who just has, simple mathematical foundation, a little programming ability, to open his or her AI trip.
 
+The project mainly consists of three parts：
+* Mathematical basics related to machine learning
+* Machine learning algorithms and deep learning algorithms
+* Some applications using machine learning algorithms
+
 There are a lot of shortcomings to be improved.
 
 # Content
-[what is machine learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
+## Introduction
+1. [what is machine learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
+2. [A mind map of machine learning algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/MachineLearningAlgorithms.png)
 
-[A mind map of machine learning algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/MachineLearningAlgorithms.png)
-## Feature engineering
-1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
-2. [Feature sampling](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_sample.md)
-3. [Feature cleaning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_clean.md)
-4. [Feature processing](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_handle.md)
-5. [One-Hot Encoding](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
-6. [TF-IDF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/TF-idf.md)
-7. [Feature selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features.md)
-8. [Model selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
-9. [Model effect optimization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator_optimize.md)
-10. [Model ensemble](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/model_ensemble.md)
-
-## Necessary model and algorithm knowledge
-### Basic concept
+## Machine learning algorithms and deep learning algorithms
+### Basic concept of machine learning
 1. [Division of machine learning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/the_division_of_ml.md)
 2. [Samples and features](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/sample_feature_label.md)
 3. [Data normalization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_normalization.md)
@@ -42,6 +36,17 @@ There are a lot of shortcomings to be improved.
 6. [Gradient descent](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/gradient_descent.md)
 7. [Cross Validation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/CrossValidation.md)
 8. [Precision and recall](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/precision_andrecall.md)
+### Feature engineering of machine learning
+1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
+2. [Feature sampling](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_sample.md)
+3. [Feature cleaning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/data_clean.md)
+4. [Feature processing](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_handle.md)
+5. [One-Hot Encoding](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/one-hot.md)
+6. [TF-IDF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/TF-idf.md)
+7. [Feature selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features.md)
+8. [Model selection](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator.md)
+9. [Model effect optimization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/estimator_optimize.md)
+10. [Model ensemble](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/model_ensemble.md)
 ### Linear model
 1. [Linear model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/linear_regression_model.md)
 2. [Logistic regression model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/logisticRegression.md)
@@ -80,9 +85,8 @@ There are a lot of shortcomings to be improved.
 1. [Concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_concept.md)
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
-
-## Deep learning
-### Basic concept
+## Deep learning algorithm
+### Basic concept of deep learning
 1. [Perceptron](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/perceptron.md)
 2. [Neural Networks](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/neural_network.md)
 3. [Activation functions summary](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Activation.md)
@@ -101,7 +105,7 @@ There are a lot of shortcomings to be improved.
 
 **...To be updated...**
 
-## Code examples
+## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
 2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
 3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
@@ -125,7 +129,7 @@ There are a lot of shortcomings to be improved.
 ### NLP
 1. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
 2. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
-## Necessary mathematical knowledge
+## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
 2. [Bayesian formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
 3. [Distribution](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/distribution.md)
@@ -143,7 +147,6 @@ There are a lot of shortcomings to be improved.
 15. [Likelihood function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 16. [Conjugate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 17. [Hessian Matrix](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Hessian_Matrix.md)
-
 ## Others
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
@@ -156,9 +159,7 @@ There are a lot of shortcomings to be improved.
 8. [TensorFlow Tutorial by Bharath Ramsundar](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 9. [TensorFlow Tutorial‘s videos by morvanzhou](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/1-1-C-gradient-descent/)
 10. [TensorFlow 1.x Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook)
-
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
-
 ## Join in us
 **<font color=red>Email:   aaaaliyang@gmail.com</font>**<br>
