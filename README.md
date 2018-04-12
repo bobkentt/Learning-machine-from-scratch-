@@ -7,6 +7,7 @@ There are a lot of shortcomings to be improved.
 
 # Content
 [what is machine learning?](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/wiml.md)
+
 [A mind map of machine learning algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/MachineLearningAlgorithms.png)
 ## Feature engineering
 1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/features_concept.md)
