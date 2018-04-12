@@ -96,11 +96,8 @@ There are a lot of shortcomings to be improved.
 7. [Regularization in deeplearning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Regularization.md)
 8. [Dropout](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Dropout.md)
 9. [Example code of DNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/a_nn_by_tensorflow.ipynb)
-### CNN in tensorflow
-
-**...To be updated...**
-
-### RNN & LSTM
+10. [Intro to CNN](https://blog.csdn.net/cxmscb/article/details/71023576)
+11. [RNN based on tensorflow]()
 
 
 **...To be updated...**
