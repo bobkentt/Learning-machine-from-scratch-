@@ -71,11 +71,11 @@ There are a lot of shortcomings to be improved.
 2. [Dual problem]()
 3. [SVM regression]()
 4. [Kernel method]()
-### Probability diagram model
-1. [Bayesian decision theory]()
-2. [Naive Bayesian]()
-3. [Bayesian network]()
-4. [HMM]()
+### Probability graph model
+1. [Bayesian decision theory](http://www.bayesia.com/bayesian-networks-introduction)
+2. [Bayesian network](http://www.bayesia.com/bayesian-networks-examples)
+3. [Naive Bayesian with python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+4. [HMM](https://applenob.github.io/hmm.html)
 5. [Markov Random Field]()
 6. [Conditional random field,CRF]()
 7. [Maximum entropy model]()
