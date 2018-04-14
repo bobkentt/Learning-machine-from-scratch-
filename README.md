@@ -157,6 +157,7 @@ There are a lot of shortcomings to be improved.
 9. [TensorFlow Tutorial‘s videos by morvanzhou](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/1-1-C-gradient-descent/)
 10. [TensorFlow 1.x Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook)
 11. [Tutorial of Keras by Chinese](http://keras-cn.readthedocs.io/en/latest/)
+12. [How to install a local spark on macos](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 ## Join in us
