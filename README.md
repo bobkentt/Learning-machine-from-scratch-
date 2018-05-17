@@ -3,7 +3,7 @@ All started from one learning-notes，
 
 Which is designed to help those who just has, simple mathematical foundation, a little programming ability, to open his or her AI trip.
 
-The project mainly consists of three parts：
+The project mainly consists of 4 parts：
 * Mathematical basics related to machine learning
 * Machine learning algorithms and deep learning algorithms
 * Some applications using machine learning algorithms
@@ -158,6 +158,7 @@ There are a lot of shortcomings to be improved.
 10. [TensorFlow 1.x Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-cookbook)
 11. [Tutorial of Keras by Chinese](http://keras-cn.readthedocs.io/en/latest/)
 12. [How to install a local spark on macos](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
+13. [Basic_ml_feature_engineering.ipynb]()
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 ## Join in us
