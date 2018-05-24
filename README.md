@@ -98,7 +98,8 @@ There are a lot of shortcomings to be improved.
 9. [Example code of DNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/a_nn_by_tensorflow.ipynb)
 10. [Intro to CNN](https://blog.csdn.net/cxmscb/article/details/71023576)
 11. [Intro to RNN](https://deeplearning4j.org/cn/lstm)
-12. [RNN based on tensorflow]()
+12. [Understanding LSTM Networks by colah](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/lstm.md)
+13. [RNN based on tensorflow]()
 
 
 **...To be updated...**
