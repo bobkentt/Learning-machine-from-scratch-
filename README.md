@@ -114,6 +114,8 @@ There are a lot of shortcomings to be improved.
 9. [Example code of logistic regression based on TensorFlow from Google tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
 10. [Feature engineering of linear model based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/synthetic_features_and_outliers.ipynb)
 11. [Example code of softmax based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/Softmax_with_tensorflow.ipynb)
+12. [43 suggestions from google 
+Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1527027021&app=news_article&utm_source=weixin&isappinstalled=0&iid=33078205423&utm_medium=toutiao_android&wxshare_count=2&pbid=6558572894481008136)
 ### Recommendation system
 1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_basic_concept.md)
 2. [User behavior analysis](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_usr_behavior.md)
