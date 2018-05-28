@@ -163,6 +163,8 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 11. [Tutorial of Keras by Chinese](http://keras-cn.readthedocs.io/en/latest/)
 12. [How to install a local spark on macos](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
 13. [Basic_ml_feature_engineering.ipynb](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/1.basic_ml_feature_engineering.ipynb)
+14. [Top 10 tips of AI](https://www.toutiao.com/a6560492796464071181/?iid=33629598044&app=news_article&timestamp=1527486567)
+
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 ## Join in us
