@@ -78,9 +78,9 @@ def computeCost(X, y, theta=[[0],[0]]):
 ```
 
 #### 关于numpy运算:
-* *nmpy.sum：
+* *numpy.sum：
 [点我跳转查看官方文档](https://docs.scipy.org/doc/numpy/reference/generated/numpy.sum.html#numpy.sum)*
-* *nmpy.square：
+* *numpy.square：
 [点我跳转查看官方文档](https://docs.scipy.org/doc/numpy/reference/generated/numpy.square.html#numpy.square)*
 * *更多运算请参考：
 [点我跳转查看官方文档](https://docs.scipy.org/doc/numpy/reference/routines.math.html)*
