@@ -1,6 +1,6 @@
-# The concept of decision tree model
-## 什么是决策树
-[什么是决策树，决策树的原理](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/decision_tree.md)
+# 决策树
+## 定义
+[决策树的定义](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/decision_tree.md)
 ## 决策树的属性划分
 决策树学习的关键在于如何选择最优的划分属性。
 
