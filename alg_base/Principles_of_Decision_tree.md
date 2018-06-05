@@ -24,4 +24,4 @@
 1. [Generate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/decision_tree_generate.md)
 2. [Pruning](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Pruning.md)
 ## 代码实现
-[如果打不开，请科学上网。](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+[CART tree with python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
