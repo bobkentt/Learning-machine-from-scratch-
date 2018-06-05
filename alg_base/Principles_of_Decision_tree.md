@@ -4,6 +4,8 @@
 ## 决策树的属性划分
 决策树学习的关键在于如何选择最优的划分属性。
 
+[什么是熵？](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
+
 一般而言，随着划分的不断进行，我们希望决策树的分支结点所包含的样本尽可能属于同一类别（即结点的纯度(purity)越来越高）。
 
 判断结点的纯度的主要方法：
@@ -16,8 +18,6 @@
 * ID3决策树算法使用信息增益判断纯度；
 * C4.5决策树使用增益比
 * CART决策树使用基尼指数
-
-[什么是熵？](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Entropy.md)
 
 ## 训练与生成决策树
 1. [Generate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/decision_tree_generate.md)
