@@ -124,11 +124,13 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 4. [KNN algorithm](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/knn.md)
 5. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 6. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
-7. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
-8. [Latent factor model, LFM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/latent_factor_model.md)
+7. [Latent factor model, LFM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/latent_factor_model.md)
+
 ### NLP
 1. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
 2. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
+3. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
+
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
 2. [Bayesian formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
