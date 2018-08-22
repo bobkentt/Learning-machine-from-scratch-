@@ -30,33 +30,33 @@
 ## 全流程解决方案
 1. [ATM]
 (https://github.com/HDI-Project/ATM)
-Auto-Tune Models是麻省理工学院HDI项目开发出的框架，可用于机器学习模型的快速训练，仅需很小的工作量。
+> Auto-Tune Models是麻省理工学院HDI项目开发出的框架，可用于机器学习模型的快速训练，仅需很小的工作量。
 它使用贝叶斯优化和Bandits库，利用穷举搜索和超参数优化来实现模型选择。要注意，ATM仅支持分类问题，也支持AWS上的分布式计算。
 2. [MLBox]
 (https://github.com/AxeldeRomblay/MLBox)
-MLBox是一个新出的框架，其目标是为自动机器学习提供一个最新和最先进的方法。
-除了许多现有框架实现的特征工程外，它还提供数据采集、数据清理和训练-测试漂移检测等功能。
-此外，它使用Tree Parzen Estimators来优化所选模型的超参数。
+> MLBox是一个新出的框架，其目标是为自动机器学习提供一个最新和最先进的方法。
+> 除了许多现有框架实现的特征工程外，它还提供数据采集、数据清理和训练-测试漂移检测等功能。
+> 此外，它使用Tree Parzen Estimators来优化所选模型的超参数。
 3. [auto_ml]
 (https://github.com/ClimbsRocks/auto_ml)
-Auto_ml是一种实用工具，旨在提高从数据中获取的信息量，且无需除数据清洗外的过多工作。
+> Auto_ml是一种实用工具，旨在提高从数据中获取的信息量，且无需除数据清洗外的过多工作。
 该框架使用进化网格搜索算法来完成特征处理和模型优化的繁重工作。它利用其它成熟函数库（如XGBoost、TensorFlow、Keras、LightGBM和sklearn）来提高计算速度，还宣称只需最多1毫秒来实现预测，这也是这个库的亮点。
-该框架可快速洞察数据集（如特征重要性）来创建初始预测模型。
+> 该框架可快速洞察数据集（如特征重要性）来创建初始预测模型。
 4. [auto-sklearn]
 (https://github.com/automl/auto-sklearn)
-Auto-sklearn使用贝叶斯搜索来优化机器学习流程中使用的数据预处理器、特征预处理器和分类器，并把多个步骤经过训练后整合成一个完整模型。
-这个框架由弗莱堡大学的ML4AAD实验室编写，且其中的优化过程使用同一实验室编写的SMAC3框架完成。
-顾名思义，这个模型实现了sklearn中机器学习算法的自动构建。Auto-sklearn的主要特点是一致性和稳定性。
+> Auto-sklearn使用贝叶斯搜索来优化机器学习流程中使用的数据预处理器、特征预处理器和分类器，并把多个步骤经过训练后整合成一个完整模型。
+> 这个框架由弗莱堡大学的ML4AAD实验室编写，且其中的优化过程使用同一实验室编写的SMAC3框架完成。
+> 顾名思义，这个模型实现了sklearn中机器学习算法的自动构建。Auto-sklearn的主要特点是一致性和稳定性。
 5. [H2O]
 (https://github.com/h2oai/h2o-3)
-H2O是一个用Java编写的机器学习平台，它和sklearn等机器学习库的使用体验相似。但是，它还包含一个自动机器学习模块，这个模块利用其内置算法来创建机器学习模型。
-该框架对内置于H2O系统的预处理器实施穷举搜索，并使用笛卡尔网格搜索或随机网格搜索来优化超参数。
-H2O的优势在于它能够形成大型计算机集群，这使得它在规模上有所增长。它还可在python、javascript、tableau、R和Flow（web UI）等环境中使用。
+> H2O是一个用Java编写的机器学习平台，它和sklearn等机器学习库的使用体验相似。但是，它还包含一个自动机器学习模块，这个模块利用其内置算法来创建机器学习模型。
+> 该框架对内置于H2O系统的预处理器实施穷举搜索，并使用笛卡尔网格搜索或随机网格搜索来优化超参数。
+> H2O的优势在于它能够形成大型计算机集群，这使得它在规模上有所增长。它还可在python、javascript、tableau、R和Flow（web UI）等环境中使用。
 6. [TPOT]
 (https://github.com/EpistasisLab/tpot)
-TPOT为基于树的流程优化工具，是一种用于查找和生成最佳数据科学流程代码的遗传编程框架。TPOT和其他自动机器学习框架一样，从sklearn库中获取算法。
-TPOT的优势在于其独特的优化方法，可以提供更有效的优化流程。
-它还包括一个能把训练好的流程直接转换为代码的工具，这对希望能进一步调整生成模型的数据科学家来说是一个主要亮点。
+> TPOT为基于树的流程优化工具，是一种用于查找和生成最佳数据科学流程代码的遗传编程框架。TPOT和其他自动机器学习框架一样，从sklearn库中获取算法。
+> TPOT的优势在于其独特的优化方法，可以提供更有效的优化流程。
+> 它还包括一个能把训练好的流程直接转换为代码的工具，这对希望能进一步调整生成模型的数据科学家来说是一个主要亮点。
 
 
-原文：https://medium.com/georgian-impact-blog/automatic-machine-learning-aml-landscape-survey-f75c3ae3bbf2
+**原文：https://medium.com/georgian-impact-blog/automatic-machine-learning-aml-landscape-survey-f75c3ae3bbf2**
