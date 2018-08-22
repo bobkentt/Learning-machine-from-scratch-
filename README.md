@@ -166,6 +166,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 13. [Basic_ml_feature_engineering.ipynb](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/1.basic_ml_feature_engineering.ipynb)
 14. [Top 10 tips of AI](https://www.toutiao.com/a6560492796464071181/?iid=33629598044&app=news_article&timestamp=1527486567)
 15. [Usr profiles blogs link](http://www.zhuanzhi.ai/topic/2001300420102154/awesome)
+16. [Auto ml tools](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/auto_ml_tools.md)
 
 ## Papers of DeepLearning
 1. [Geoffrey E. Hinton's Publications
