@@ -3,7 +3,7 @@ All started from one learning-notes，
 
 Which is designed to help those who just has, simple mathematical foundation, a little programming ability, to open his or her AI trip.
 
-The project mainly consists of 4 parts：
+The project mainly consists of 5 parts：
 * Mathematical basics related to machine learning
 * Machine learning algorithms and deep learning algorithms
 * Some applications using machine learning algorithms
