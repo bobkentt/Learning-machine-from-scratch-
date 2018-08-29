@@ -125,6 +125,8 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 5. [SVD](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 6. [NMF](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/svd.md)
 7. [Latent factor model, LFM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/latent_factor_model.md)
+8. [Google app play wide deep model](http://www.shuang0420.com/2017/03/13/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0%20-%20Wide%20and%20Deep%20Learning%20for%20Recommender%20Systems/)
+9. [Wide deep model](https://github.com/tensorflow/models/tree/master/official/wide_deep)
 
 ### NLP
 1. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
