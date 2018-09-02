@@ -100,6 +100,7 @@ The project mainly consists of 5 parts：
 11. [Intro to RNN](https://deeplearning4j.org/cn/lstm)
 12. [Understanding LSTM Networks by colah](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/lstm.md)
 13. [RNN based on tensorflow]()
+14. [AlexNet，ZFNet，VGGNet，GoogleNet，ResNet](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247485569&idx=1&sn=1533ed1297c688492749efaea1723163&chksm=eb501c12dc279504c2efb62731aaf5bb58cb2122c191afe8a9333131b678c78c7cd87875bf72&mpshare=1&scene=23&srcid=0901wvOdTw4E0quD2chGVjYn#rd)
 
 
 **...To be updated...**
