@@ -134,6 +134,8 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 2. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
 3. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
 4. [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt#installing-the-tutorial)
+5. [Deep Learning for Chatbots, Part 1](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+6. [Deep Learning for Chatbots, Part 2 – Implementing a Retrieval-Based Model in Tensorflow](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
 2. [Bayesian formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
