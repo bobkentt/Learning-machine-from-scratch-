@@ -27,7 +27,7 @@ The project mainly consists of 5 parts：
 7. [Learning carve](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/learning_carve.md)
 8. [RMSE and MAE](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/rmse_mae.md)
 9. [MSE](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/mse.md)
-10. [Regularization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/regularization)
+10. [Regularization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/regularization.md)
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
 2. [Dataset partition](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_partition.md)
