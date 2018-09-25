@@ -140,6 +140,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 6. [Deep Learning for Chatbots, Part 2 – Implementing a Retrieval-Based Model in Tensorflow](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
 7. [Naive bayes](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/nb/nb.md)
 8. [N-gram model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/nb/gram_model.md)
+9. [Chatbot projects](https://www.jianshu.com/p/ed84bcb3cd73)
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
 2. [Bayesian formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
