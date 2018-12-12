@@ -1,5 +1,8 @@
 # 极大似然估计
 
+## 好文链接
+https://zhuanlan.zhihu.com/p/26614750
+
 ## 贝叶斯公式带来的思考
 
 ![](https://github.com/bobkentt/Learning-machine-from-scratch-pic/blob/master/math_base/pic/think.png)
