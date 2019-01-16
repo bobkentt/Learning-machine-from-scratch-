@@ -179,6 +179,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 15. [Usr profiles blogs link](http://www.zhuanzhi.ai/topic/2001300420102154/awesome)
 16. [Auto ml tools](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/auto_ml_tools.md)
 17. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+18. [TensorFlow dataset tutorial](https://zhuanlan.zhihu.com/p/43356309)
 
 ## Papers of DeepLearning
 1. [Geoffrey E. Hinton's Publications
