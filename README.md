@@ -108,6 +108,7 @@ The project mainly consists of 5 parts：
 19. [Speed Up Training](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/speed_up_training.md)
 20. [Activation_Function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Activation_Function.md)
 21. [Classifier with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/Classifier_with_keras.ipynb)
+
 **...To be updated...**
 
 ## Some applications using machine learning algorithms
