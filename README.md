@@ -114,6 +114,7 @@ The project mainly consists of 5 parts：
 21. [Classifier with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/Classifier_with_keras.ipynb)
 22. [CNN with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/cnn_with_keras.ipynb)
 23. [RNN Classifier with keras](./practice/code/deeplearning/rnn_with_keras.ipynb)
+24. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#adaptive-computation-time)
 
 **...To be updated...**
 
