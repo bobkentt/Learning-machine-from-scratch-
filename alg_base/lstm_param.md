@@ -3,6 +3,9 @@
 
 [参考链接](https://zhuanlan.zhihu.com/p/39262960)
 
+
+[这个链接里面直接有公式](https://www.cnblogs.com/wdmx/p/9284037.html)
+
 首先声明：
 
 参数个数与steps无关
