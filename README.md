@@ -173,6 +173,10 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 15. [Likelihood function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 16. [Conjugate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 17. [Hessian Matrix](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Hessian_Matrix.md)
+### Activation Functions
+18. [Sigmoid](./math_base/activation_sigmoid_function.md)
+19. [Relu](./math_base/activation_relu_function.md)
+20. [Tanh](./math_base/activation_tanh_function.md)
 ## Some tools of machine learning
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
