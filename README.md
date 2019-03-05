@@ -177,6 +177,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 18. [Sigmoid](./math_base/activation_sigmoid_function.md)
 19. [Relu](./math_base/activation_relu_function.md)
 20. [Tanh](./math_base/activation_tanh_function.md)
+21. [Comparison of activation](./math_base/Comparison_Activation.md)
 ## Some tools of machine learning
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
