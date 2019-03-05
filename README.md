@@ -116,6 +116,7 @@ The project mainly consists of 5 parts：
 23. [RNN Classifier with keras](./practice/code/deeplearning/rnn_with_keras.ipynb)
 24. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#adaptive-computation-time)
 25. [LSTM with keras](./practice/code/deeplearning/lstm_with_keras.ipynb)
+26. [Attention on seq2seq](./practice/code/deeplearning/Attention_on_seq2seq.ipynb)
 
 **...To be updated...**
 
