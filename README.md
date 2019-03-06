@@ -179,7 +179,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 19. [Relu](./math_base/activation_relu_function.md)
 20. [Tanh](./math_base/activation_tanh_function.md)
 21. [Comparison of activation](./math_base/Comparison_Activation.md)
-## Some tools of machine learning
+## Engineering practice
 1. [Machine learning engineers daily](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/major_task.md)
 1. [Python data analysis environment](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/python-environment-install.md)
 2. [Python and numpy tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/python-numpy-tutorial.ipynb)
@@ -200,6 +200,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 17. [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 18. [TensorFlow dataset tutorial](https://zhuanlan.zhihu.com/p/43356309)
 19. [Jupyterhub install tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Jupyterhub-install-tutorial.md)
+20. [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ## Papers of DeepLearning
 1. [Geoffrey E. Hinton's Publications
