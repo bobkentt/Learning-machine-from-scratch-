@@ -105,10 +105,6 @@ The project mainly consists of 5 parts：
 14. [AlexNet，ZFNet，VGGNet，GoogleNet，ResNet](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247485569&idx=1&sn=1533ed1297c688492749efaea1723163&chksm=eb501c12dc279504c2efb62731aaf5bb58cb2122c191afe8a9333131b678c78c7cd87875bf72&mpshare=1&scene=23&srcid=0901wvOdTw4E0quD2chGVjYn#rd)
 15. [Transfer Learning](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-16-transfer-learning/)
 15. [Number of parameters in a Lstm](./alg_base/lstm_param.md)
-26. [Attention on seq2seq](./practice/code/deeplearning/Attention_on_seq2seq.ipynb)
-27. [Transformer](https://zhuanlan.zhihu.com/p/54356280)
-28. [BERT](https://zhuanlan.zhihu.com/p/55363138)
-29. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
 ### Practice Code
 16. [Simple RNN, LSTM in pure Numpy](https://github.com/krocki/dnc)
 17. [CNN Tutorial](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC5-1%E8%AC%9B-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1%E4%BB%8B%E7%B4%B9-convolutional-neural-network-4f8249d65d4f)
@@ -122,8 +118,6 @@ The project mainly consists of 5 parts：
 25. [LSTM with keras](./practice/code/deeplearning/lstm_with_keras.ipynb)
 26. [Attention on seq2seq with pytorch](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
-
-**...To be updated...**
 
 ## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
@@ -161,6 +155,13 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 8. [N-gram model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/nb/gram_model.md)
 9. [Chatbot projects](https://www.jianshu.com/p/ed84bcb3cd73)
 10. [seq2seq](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/seq2seq.html#%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83)
+26. [Attention on seq2seq](./practice/code/deeplearning/Attention_on_seq2seq.ipynb)
+27. [Transformer](https://zhuanlan.zhihu.com/p/54356280)
+28. [BERT](https://zhuanlan.zhihu.com/p/55363138)
+29. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
+
+**...To be updated...**
+
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
 2. [Bayesian formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/bayes.md)
