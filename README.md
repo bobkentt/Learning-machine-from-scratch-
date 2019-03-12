@@ -207,6 +207,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 18. [TensorFlow dataset tutorial](https://zhuanlan.zhihu.com/p/43356309)
 19. [Jupyterhub install tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Jupyterhub-install-tutorial.md)
 20. [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+21. [pytorch documents in Chinese](https://pytorch-cn.readthedocs.io/zh/latest/package_references/Tensor/)
 
 ## Papers of DeepLearning
 1. [Geoffrey E. Hinton's Publications
