@@ -117,6 +117,8 @@ The project mainly consists of 5 parts：
 24. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#adaptive-computation-time)
 25. [LSTM with keras](./practice/code/deeplearning/lstm_with_keras.ipynb)
 26. [Attention on seq2seq](./practice/code/deeplearning/Attention_on_seq2seq.ipynb)
+27. [Transformer](https://zhuanlan.zhihu.com/p/54356280)
+28. [BERT](https://zhuanlan.zhihu.com/p/55363138)
 
 **...To be updated...**
 
