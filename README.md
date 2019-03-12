@@ -97,7 +97,7 @@ The project mainly consists of 5 parts：
 6. [Cost function of deep learning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/cost.md)
 7. [Regularization in deeplearning](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Regularization.md)
 8. [Dropout](https://github.com/bobkentt/deep-learning-note/blob/master/markdown/Dropout.md)
-### Common Network structure
+### Common Network architeture
 9. [Example code of DNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/a_nn_by_tensorflow.ipynb)
 10. [Intro to CNN](https://blog.csdn.net/cxmscb/article/details/71023576)
 11. [Intro to RNN](https://deeplearning4j.org/cn/lstm)
