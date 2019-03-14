@@ -117,7 +117,8 @@ The project mainly consists of 5 parts：
 24. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#adaptive-computation-time)
 25. [LSTM with keras](./practice/code/deeplearning/lstm_with_keras.ipynb)
 26. [Attention on seq2seq with pytorch](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
-
+### Pytorch practice
+27. [Variable with pytorch](./practice/code/deeplearning/variable_with_pytorch.ipynb)
 
 ## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
