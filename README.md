@@ -121,6 +121,7 @@ The project mainly consists of 5 parts：
 27. [Variable with pytorch](./practice/code/deeplearning/variable_with_pytorch.ipynb)
 28. [Activation in pytorch](./practice/code/deeplearning/Activation_function_with_pytorch.ipynb)
 29. [Regressor with pytorch](./practice/code/deeplearning/Regressor_with_pytorch.ipynb)
+30. [Classifier with pytorch](./practice/code/deeplearning/Classifier_with_pytorch.ipynb)
 
 ## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
