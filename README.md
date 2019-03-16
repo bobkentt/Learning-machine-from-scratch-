@@ -122,6 +122,8 @@ The project mainly consists of 5 parts：
 28. [Activation in pytorch](./practice/code/deeplearning/Activation_function_with_pytorch.ipynb)
 29. [Regressor with pytorch](./practice/code/deeplearning/Regressor_with_pytorch.ipynb)
 30. [Classifier with pytorch](./practice/code/deeplearning/Classifier_with_pytorch.ipynb)
+31. [Build_nn_quickly with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-03-fast-nn/)
+32. [Save and reload with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-04-save-reload/)
 
 ## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
