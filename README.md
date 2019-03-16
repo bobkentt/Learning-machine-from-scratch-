@@ -126,6 +126,7 @@ The project mainly consists of 5 parts：
 31. [Build_nn_quickly with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-03-fast-nn/)
 32. [Save and reload with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-04-save-reload/)
 33. [Train on batch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-05-train-on-batch/)
+33. [Optimizer on pytroch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-06-optimizer/)
 
 ## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
