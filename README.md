@@ -110,6 +110,7 @@ The project mainly consists of 5 parts：
 17. [CNN Tutorial](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC5-1%E8%AC%9B-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1%E4%BB%8B%E7%B4%B9-convolutional-neural-network-4f8249d65d4f)
 18. [Regressor with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/Regressor_with_keras.ipynb)
 19. [Speed Up Training](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/speed_up_training.md)
+19. [Params of SGD,Adam,RMSprop](https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-note-sgd-momentum-adagrad-adam-optimizer-f20568c968db)
 20. [Activation_Function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Activation_Function.md)
 21. [Classifier with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/Classifier_with_keras.ipynb)
 22. [CNN with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/cnn_with_keras.ipynb)
@@ -124,6 +125,7 @@ The project mainly consists of 5 parts：
 30. [Classifier with pytorch](./practice/code/deeplearning/Classifier_with_pytorch.ipynb)
 31. [Build_nn_quickly with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-03-fast-nn/)
 32. [Save and reload with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-04-save-reload/)
+33. [Train on batch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-05-train-on-batch/)
 
 ## Some applications using machine learning algorithms
 1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
