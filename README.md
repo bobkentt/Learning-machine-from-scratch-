@@ -29,6 +29,8 @@ The project mainly consists of 5 parts：
 9. [MSE](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/mse.md)
 10. [Regularization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/regularization.md)
 11. [Feature Normalization](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-02-normalization/)
+12. [F1 score](https://baike.baidu.com/item/F1%E5%88%86%E6%95%B0/13864979?fr=aladdin)
+
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
 2. [Dataset partition](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_partition.md)
@@ -169,6 +171,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 13. [BERT](https://zhuanlan.zhihu.com/p/55363138)
 14. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
 15. [Intention recognition & Slot filling](./alg_base/Intention_recognition_Slot_filling.md)
+
 
 **...To be updated...**
 
