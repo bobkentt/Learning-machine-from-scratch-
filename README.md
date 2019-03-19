@@ -168,7 +168,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 12. [Transformer](https://zhuanlan.zhihu.com/p/54356280)
 13. [BERT](https://zhuanlan.zhihu.com/p/55363138)
 14. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
-15. [Intention recognition & Slot filling](./alg_base/Intention_recognition_Slot_filling)
+15. [Intention recognition & Slot filling](./alg_base/Intention_recognition_Slot_filling.md)
 
 **...To be updated...**
 
