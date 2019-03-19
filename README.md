@@ -164,10 +164,11 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 8. [N-gram model](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/nb/gram_model.md)
 9. [Chatbot projects](https://www.jianshu.com/p/ed84bcb3cd73)
 10. [seq2seq](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/seq2seq.html#%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83)
-26. [Attention on seq2seq](./practice/code/deeplearning/Attention_on_seq2seq.ipynb)
-27. [Transformer](https://zhuanlan.zhihu.com/p/54356280)
-28. [BERT](https://zhuanlan.zhihu.com/p/55363138)
-29. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
+11. [Attention on seq2seq](./practice/code/deeplearning/Attention_on_seq2seq.ipynb)
+12. [Transformer](https://zhuanlan.zhihu.com/p/54356280)
+13. [BERT](https://zhuanlan.zhihu.com/p/55363138)
+14. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
+15. [Intention recognition & Slot filling](./alg_base/speed_up_training.md)
 
 **...To be updated...**
 
