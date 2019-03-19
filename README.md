@@ -171,6 +171,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 13. [BERT](https://zhuanlan.zhihu.com/p/55363138)
 14. [Annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
 15. [Intention recognition & Slot filling](./alg_base/Intention_recognition_Slot_filling.md)
+16. [NLP open source tools](https://mlln.cn/2018/06/02/[%E8%BD%AC]%E5%90%8A%E7%82%B8%E5%A4%A9%E7%9A%84%E4%B8%AD%E6%96%87%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E5%92%8C%E8%AF%AD%E6%96%99%E5%BA%93%E4%BB%8B%E7%BB%8D/#Information-Extraction-%E4%BF%A1%E6%81%AF%E6%8F%90%E5%8F%96)
 
 
 **...To be updated...**
