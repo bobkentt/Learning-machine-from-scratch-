@@ -175,6 +175,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 17. [Intention recognition with lstm&softmax](https://www.cnblogs.com/ModifyRong/p/8546421.html)
 17. [Intention recognition with cnn&softmax](https://zhuanlan.zhihu.com/p/41944121)
 18. [How to make intention-recognition](./alg_base/Intention_recognition.md)
+19. [Transformer with pytorch](https://github.com/jiqizhixin/ML-Tutorial-Experiment )
 
 **...To be updated...**
 
