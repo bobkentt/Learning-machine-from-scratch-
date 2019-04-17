@@ -31,6 +31,7 @@ The project mainly consists of 5 parts：
 11. [Feature Normalization](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-02-normalization/)
 12. [F1 score](https://baike.baidu.com/item/F1%E5%88%86%E6%95%B0/13864979?fr=aladdin)
 
+
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
 2. [Dataset partition](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_partition.md)
@@ -197,6 +198,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 15. [Likelihood function](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/pmf.md)
 16. [Conjugate](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/conjugate.md)
 17. [Hessian Matrix](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/Hessian_Matrix.md)
+18. [Matrix with code](https://www.jiqizhixin.com/articles/2017-08-07-2)
 ### Activation Functions
 18. [Sigmoid](./math_base/activation_sigmoid_function.md)
 19. [Relu](./math_base/activation_relu_function.md)
