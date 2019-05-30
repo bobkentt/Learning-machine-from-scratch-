@@ -234,6 +234,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 1. [Geoffrey E. Hinton's Publications
 in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 2. [Attention is all you need](https://www.jiqizhixin.com/articles/2018-01-10-20)
+3. [sota papers with code](https://paperswithcode.com/sota)
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 ## Join in us
