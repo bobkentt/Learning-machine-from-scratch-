@@ -233,6 +233,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 21. [pytorch documents in Chinese](https://pytorch-cn.readthedocs.io/zh/latest/package_references/Tensor/)
 
 ## Papers of DeepLearning
+1. [How to read paper](./alg_base/how_to_read_paper.md)
 1. [Geoffrey E. Hinton's Publications
 in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 2. [Attention is all you need](https://www.jiqizhixin.com/articles/2018-01-10-20)
