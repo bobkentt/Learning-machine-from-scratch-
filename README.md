@@ -181,7 +181,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 19. [Transformer with pytorch](https://github.com/jiqizhixin/ML-Tutorial-Experiment )
 20. [QA match model](https://zhuanlan.zhihu.com/p/39920446)
 21. [NLP tools link](https://www.ctolib.com/fighting41love-funNLP.html)
-22. [part-speech of jieba ](practice/jieba_part_of_speech.md)
+22. [part-speech of jieba ](practice/jieba_part_of_speech)
 
 **...To be updated...**
 
