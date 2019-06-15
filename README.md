@@ -183,6 +183,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 21. [NLP tools link](https://www.ctolib.com/fighting41love-funNLP.html)
 22. [part-speech of jieba ](practice/jieba_part_of_speech)
 23. [awesome-chatbot](practice/awesome-chatbot.md)
+24. [Text Classification with BERT](https://www.jiqizhixin.com/articles/2019-03-13-4)
 
 **...To be updated...**
 
