@@ -185,6 +185,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 23. [awesome-chatbot](practice/awesome-chatbot.md)
 24. [Text Classification with BERT](https://www.jiqizhixin.com/articles/2019-03-13-4)
 25. [Reimplementations of GPT&BERT&GPT2&Transformer XL](https://github.com/huggingface/pytorch-pretrained-BERT)
+26. [TextCNN for product_details_page title](https://zhuanlan.zhihu.com/p/25928551)
 
 **...To be updated...**
 
