@@ -195,7 +195,8 @@ in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 2. [Attention is all you need](https://www.jiqizhixin.com/articles/2018-01-10-20)
 3. [sota papers with code](https://paperswithcode.com/sota)
 4. [BERT paper Chinese](https://www.cnblogs.com/guoyaohua/p/bert.html)
-5. [GPT2 paper Chinese](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
+5. [Interpretation of the paper GPT](https://blog.csdn.net/Magical_Bubble/article/details/89497002)
+6. [Interpretation of the paper GPT2](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
 
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
