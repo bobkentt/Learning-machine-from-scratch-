@@ -89,7 +89,9 @@ The project mainly consists of 5 parts：
 3. [Naive Bayesian with python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 4. [HMM](https://applenob.github.io/hmm.html)
 5. [LDA](https://datartisan.gitbooks.io/begining-text-mining-with-python/content/%E7%AC%AC7%E7%AB%A0%20%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B/7.2%20LDA.html)
+
 **...To be updated...**
+
 6. [Markov Random Field]()
 7. [Conditional random field,CRF]()
 8. [Maximum entropy model]()
@@ -97,7 +99,9 @@ The project mainly consists of 5 parts：
 1. [Concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_concept.md)
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
+
 **...To be updated...**
+
 4. [DBSCAN]()
 ## Deep learning algorithm
 ### Basic concept of deep learning
