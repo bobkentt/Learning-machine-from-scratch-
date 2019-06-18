@@ -184,6 +184,7 @@ The project mainly consists of 5 parts：
 25. [Reimplementations of GPT&BERT&GPT2&Transformer XL](https://github.com/huggingface/pytorch-pretrained-BERT)
 26. [TextCNN for product_details_page title](https://zhuanlan.zhihu.com/p/25928551)
 27. [FastText, TextCNN, TextRNN, TextBiRNN, TextAttBiRNN, HAN, RCNN, RCNNVariant](https://github.com/ShawnyXiao/TextClassification-Keras/blob/master/README-ZH.md)
+28. [GPT2 code](https://github.com/openai/gpt-2)
 
 
 
