@@ -67,6 +67,14 @@ The project mainly consists of 5 parts：
 10. [Feature engineering of linear model based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/synthetic_features_and_outliers.ipynb)
 11. [Example code of softmax based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/Softmax_with_tensorflow.ipynb)
 12. [Example code of softmax based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/MNIST_Softmax.ipynb)
+1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
+2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
+3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
+4. [Linear regression based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
+8. [Example code of linear regression based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/linear_model_by_tensorflow.ipynb)
+9. [Example code of logistic regression based on TensorFlow from Google tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
+10. [Feature engineering of linear model based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/synthetic_features_and_outliers.ipynb)
+11. [Example code of softmax based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/Softmax_with_tensorflow.ipynb)
 ### Decision tree family models
 1. [Principles of Decision tree](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Principles_of_Decision_tree.md)
 2. [Bagging](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Bagging.md)
@@ -75,15 +83,13 @@ The project mainly consists of 5 parts：
 5. [Implement decision tree algorithm in python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 ### SVM
 1. [A tutorial of SVM](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/svm.md)
-2. [Dual problem]()
-3. [SVM regression]()
-4. [Kernel method]()
 ### Probability graph model
 1. [Bayesian decision theory](http://www.bayesia.com/bayesian-networks-introduction)
 2. [Bayesian network](http://www.bayesia.com/bayesian-networks-examples)
 3. [Naive Bayesian with python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 4. [HMM](https://applenob.github.io/hmm.html)
 5. [LDA](https://datartisan.gitbooks.io/begining-text-mining-with-python/content/%E7%AC%AC7%E7%AB%A0%20%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B/7.2%20LDA.html)
+**...To be updated...**
 6. [Markov Random Field]()
 7. [Conditional random field,CRF]()
 8. [Maximum entropy model]()
@@ -91,6 +97,7 @@ The project mainly consists of 5 parts：
 1. [Concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_concept.md)
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
+**...To be updated...**
 4. [DBSCAN]()
 ## Deep learning algorithm
 ### Basic concept of deep learning
@@ -110,7 +117,6 @@ The project mainly consists of 5 parts：
 14. [AlexNet，ZFNet，VGGNet，GoogleNet，ResNet](https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247485569&idx=1&sn=1533ed1297c688492749efaea1723163&chksm=eb501c12dc279504c2efb62731aaf5bb58cb2122c191afe8a9333131b678c78c7cd87875bf72&mpshare=1&scene=23&srcid=0901wvOdTw4E0quD2chGVjYn#rd)
 15. [Transfer Learning](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/5-16-transfer-learning/)
 15. [Number of parameters in a Lstm](./alg_base/lstm_param.md)
-### Keras Practice Code
 16. [Simple RNN, LSTM in pure Numpy](https://github.com/krocki/dnc)
 17. [CNN Tutorial](https://medium.com/@yehjames/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC5-1%E8%AC%9B-%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E7%B5%A1%E4%BB%8B%E7%B4%B9-convolutional-neural-network-4f8249d65d4f)
 18. [Regressor with keras](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/deeplearning/Regressor_with_keras.ipynb)
@@ -123,7 +129,6 @@ The project mainly consists of 5 parts：
 24. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#adaptive-computation-time)
 25. [LSTM with keras](./practice/code/deeplearning/lstm_with_keras.ipynb)
 26. [Attention on seq2seq with pytorch](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
-### Pytorch Practice Code
 27. [Variable with pytorch](./practice/code/deeplearning/variable_with_pytorch.ipynb)
 28. [Activation in pytorch](./practice/code/deeplearning/Activation_function_with_pytorch.ipynb)
 29. [Regressor with pytorch](./practice/code/deeplearning/Regressor_with_pytorch.ipynb)
@@ -132,21 +137,9 @@ The project mainly consists of 5 parts：
 32. [Save and reload with pytorch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-04-save-reload/)
 33. [Train on batch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-05-train-on-batch/)
 33. [Optimizer on pytroch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-06-optimizer/)
+34. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
+35. [Example code of DNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/a_nn_by_tensorflow.ipynb)
 
-## Some applications using machine learning algorithms
-1. [The hello-world of ML](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/ml-hello-world-program.md)
-2. [Linear regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/linear-regression-practice.md)
-3. [Logistic regression practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/logisitic_regression_practice/logistic_regression_example.ipynb)
-4. [Linear regression based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
-5. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
-6. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
-7. [Example code of DNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/a_nn_by_tensorflow.ipynb)
-8. [Example code of linear regression based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/linear_model_by_tensorflow.ipynb)
-9. [Example code of logistic regression based on TensorFlow from Google tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/first_steps_with_tensor_flow.ipynb)
-10. [Feature engineering of linear model based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/synthetic_features_and_outliers.ipynb)
-11. [Example code of softmax based on TensorFlow](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/Softmax_with_tensorflow.ipynb)
-12. [43 suggestions from google 
-Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1527027021&app=news_article&utm_source=weixin&isappinstalled=0&iid=33078205423&utm_medium=toutiao_android&wxshare_count=2&pbid=6558572894481008136)
 ### Recommendation system
 1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_basic_concept.md)
 2. [User behavior analysis](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_usr_behavior.md)
@@ -186,8 +179,18 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 24. [Text Classification with BERT](https://www.jiqizhixin.com/articles/2019-03-13-4)
 25. [Reimplementations of GPT&BERT&GPT2&Transformer XL](https://github.com/huggingface/pytorch-pretrained-BERT)
 26. [TextCNN for product_details_page title](https://zhuanlan.zhihu.com/p/25928551)
+27. [FastText, TextCNN, TextRNN, TextBiRNN, TextAttBiRNN, HAN, RCNN, RCNNVariant](https://github.com/ShawnyXiao/TextClassification-Keras/blob/master/README-ZH.md)
 
-**...To be updated...**
+
+
+## Papers of DeepLearning
+1. [How to read paper](./alg_base/how_to_read_paper.md)
+1. [Geoffrey E. Hinton's Publications
+in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
+2. [Attention is all you need](https://www.jiqizhixin.com/articles/2018-01-10-20)
+3. [sota papers with code](https://paperswithcode.com/sota)
+4. [BERT paper Chinese](https://www.cnblogs.com/guoyaohua/p/bert.html)
+5. [GPT2 paper Chinese](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
 
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
@@ -236,15 +239,11 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 19. [Jupyterhub install tutorial](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Jupyterhub-install-tutorial.md)
 20. [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 21. [pytorch documents in Chinese](https://pytorch-cn.readthedocs.io/zh/latest/package_references/Tensor/)
+22. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
+12. [43 suggestions from google 
+Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1527027021&app=news_article&utm_source=weixin&isappinstalled=0&iid=33078205423&utm_medium=toutiao_android&wxshare_count=2&pbid=6558572894481008136)
 
-## Papers of DeepLearning
-1. [How to read paper](./alg_base/how_to_read_paper.md)
-1. [Geoffrey E. Hinton's Publications
-in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
-2. [Attention is all you need](https://www.jiqizhixin.com/articles/2018-01-10-20)
-3. [sota papers with code](https://paperswithcode.com/sota)
-4. [BERT paper Chinese](https://www.cnblogs.com/guoyaohua/p/bert.html)
-5. [GPT2 paper Chinese](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
+
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
 ## Join in us
