@@ -184,7 +184,6 @@ The project mainly consists of 5 parts：
 25. [Reimplementations of GPT&BERT&GPT2&Transformer XL](https://github.com/huggingface/pytorch-pretrained-BERT)
 26. [TextCNN for product_details_page title](https://zhuanlan.zhihu.com/p/25928551)
 27. [FastText, TextCNN, TextRNN, TextBiRNN, TextAttBiRNN, HAN, RCNN, RCNNVariant](https://github.com/ShawnyXiao/TextClassification-Keras/blob/master/README-ZH.md)
-28. [GPT2 code](https://github.com/openai/gpt-2)
 
 
 
@@ -197,6 +196,8 @@ in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 4. [BERT paper Chinese](https://www.cnblogs.com/guoyaohua/p/bert.html)
 5. [Interpretation of the paper GPT](https://blog.csdn.net/Magical_Bubble/article/details/89497002)
 6. [Interpretation of the paper GPT2](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
+7. [GPT code: Improving Language Understanding by Generative Pre-Training](https://github.com/openai/finetune-transformer-lm)
+8. [GPT2 code:Language Models are Unsupervised Multitask Learners](https://github.com/openai/gpt-2)
 
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
