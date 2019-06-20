@@ -198,6 +198,7 @@ in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 6. [Interpretation of the paper GPT2](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
 7. [GPT code: Improving Language Understanding by Generative Pre-Training](https://github.com/openai/finetune-transformer-lm)
 8. [GPT2 code:Language Models are Unsupervised Multitask Learners](https://github.com/openai/gpt-2)
+9. [Translation of GPT2 paper](https://www.codetd.com/article/5280605)
 
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
