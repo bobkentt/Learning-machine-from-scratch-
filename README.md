@@ -186,7 +186,7 @@ The project mainly consists of 5 parts：
 26. [TextCNN在淘宝商品详情页的应用](https://zhuanlan.zhihu.com/p/25928551)
 27. [FastText, TextCNN, TextRNN, TextBiRNN, TextAttBiRNN, HAN, RCNN, RCNNVariant以上模型的keras实现](https://github.com/ShawnyXiao/TextClassification-Keras/blob/master/README-ZH.md)
 28. [Bert在NLP各领域的应用进展](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491027&idx=1&sn=a4e0e5db6a960092882471d1e81d5fdf&chksm=fbd4afbfcca326a951d067c88a6e75edccd05907175a8c1eadb8d203fe0121db6304cb727480&mpshare=1&scene=1&srcid=&key=a1f36ea036ec35019cd91be47f8eb7fd36edf27617132583eb1d7d0663e1ad4af2f133fe9b9f568d90a5838d98c8b8917425935d3dcb6727c0ac087b8b645b148d5041dbef6948d51804a9da98ef955f&ascene=1&uin=OTI5MDU5MDE0&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F11RyYX59G8Wkt5bbwxRjzLaXdLj%2F4sh7akBMzF0JGkgwD0FJl2yOSSVQs7d3xZY)
-
+29. [BPE编码方法](./alg_base/bpe.md)
 
 
 ## Papers of DeepLearning
