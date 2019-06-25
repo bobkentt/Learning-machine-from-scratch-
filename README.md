@@ -190,17 +190,18 @@ The project mainly consists of 5 parts：
 
 
 ## Papers of DeepLearning
-1. [How to read paper](./alg_base/how_to_read_paper.md)
+1. [怎么快速读论文](./alg_base/how_to_read_paper.md)
 1. [Geoffrey E. Hinton's Publications
 in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
-2. [Attention is all you need](https://www.jiqizhixin.com/articles/2018-01-10-20)
-3. [sota papers with code](https://paperswithcode.com/sota)
-4. [BERT paper Chinese](https://www.cnblogs.com/guoyaohua/p/bert.html)
+2. [Attention is all you need论文](https://www.jiqizhixin.com/articles/2018-01-10-20)
+3. [sota papers with code集锦的资源网站](https://paperswithcode.com/sota)
+4. [BERT论文解读](https://www.cnblogs.com/guoyaohua/p/bert.html)
 5. [Interpretation of the paper GPT](https://blog.csdn.net/Magical_Bubble/article/details/89497002)
 6. [Interpretation of the paper GPT2](https://blog.csdn.net/Magical_Bubble/article/details/89499275)
-7. [GPT code: Improving Language Understanding by Generative Pre-Training](https://github.com/openai/finetune-transformer-lm)
-8. [GPT2 code:Language Models are Unsupervised Multitask Learners](https://github.com/openai/gpt-2)
-9. [Translation of GPT2 paper](https://www.codetd.com/article/5280605)
+7. [GPT论文实现代码](https://github.com/openai/finetune-transformer-lm)
+8. [GPT2论文实现代码](https://github.com/openai/gpt-2)
+9. [GPT2论文翻译](https://blog.csdn.net/qq_29695701/article/details/88953888)
+10. [xlnet项目代码](https://github.com/zihangdai/xlnet)
 
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
