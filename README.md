@@ -144,6 +144,7 @@ The project mainly consists of 5 parts：
 33. [Optimizer on pytroch](https://morvanzhou.github.io/tutorials/machine-learning/torch/3-06-optimizer/)
 34. [Tuning of one CNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tuning_e1.md)
 35. [Example code of DNN](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/tensorflow/a_nn_by_tensorflow.ipynb)
+36. [MaxPooling1D和GlobalMaxPooling1D两个层在keras中的区别](./alg_base/MaxPooling1D_GlobalMaxPooling1D.md)
 
 ### Recommendation system
 1. [Basic concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/recommendation_basic_concept.md)
