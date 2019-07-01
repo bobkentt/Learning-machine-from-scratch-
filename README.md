@@ -190,6 +190,7 @@ The project mainly consists of 5 parts：
 29. [BPE编码方法](./alg_base/bpe.md)
 30. [NLP子任务](./alg_base/task_nlp.md)
 31. [拆解XLNet模型设计，回顾语言表征学习的思想演进](https://zhuanlan.zhihu.com/p/71567280)
+32. [自然语言处理全家福：纵览当前 NLP 中的任务、数据、模型与论文](https://github.com/sebastianruder/NLP-progress/tree/ae4990bc079addf3b70e8b46bffbb1de3fe67302)
 
 ## Papers of DeepLearning
 1. [怎么快速读论文](./alg_base/how_to_read_paper.md)
