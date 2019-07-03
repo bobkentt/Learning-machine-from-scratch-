@@ -193,6 +193,7 @@ The project mainly consists of 5 parts：
 32. [自然语言处理全家福：纵览当前 NLP 中的任务、数据、模型与论文](https://github.com/sebastianruder/NLP-progress/tree/ae4990bc079addf3b70e8b46bffbb1de3fe67302)
 32. [Keras 模型中使用预训练的 gensim 词向量和可视化](https://eliyar.biz/using-pre-trained-gensim-word2vector-in-a-keras-model-and-visualizing/)
 33. [dialogue_general_understanding with paddle](https://github.com/PaddlePaddle/models/tree/develop/PaddleNLP/dialogue_model_toolkit/dialogue_general_understanding)
+34. [几个常见的对话的开源数据集](./alg_base/nlp_opensource_dataset.md)
 
 ## Papers of DeepLearning
 1. [怎么快速读论文](./alg_base/how_to_read_paper.md)
