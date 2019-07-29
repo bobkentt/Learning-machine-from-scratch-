@@ -161,6 +161,7 @@ The project mainly consists of 5 parts：
 1. [One-hot representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/One-hot-Representation.md)
 2. [Distributed Representation](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Distributed_Representation.md)
 3. [word2vec](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/word2vec.md)
+4. [Word2vec实现细节解析](https://www.zybuluo.com/Dounm/note/591752)
 4. [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt#installing-the-tutorial)
 5. [Deep Learning for Chatbots, Part 1](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 6. [Deep Learning for Chatbots, Part 2 – Implementing a Retrieval-Based Model in Tensorflow](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
