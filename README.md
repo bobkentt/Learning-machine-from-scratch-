@@ -215,6 +215,8 @@ in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 8. [GPT2论文实现代码](https://github.com/openai/gpt-2)
 9. [GPT2论文翻译](https://blog.csdn.net/qq_29695701/article/details/88953888)
 10. [xlnet项目代码](https://github.com/zihangdai/xlnet)
+11. [T5论文代码](https://github.com/google-research/text-to-text-transfer-transformer)
+
 
 ## Mathematical basics related to machine learning
 1. [Taylor formula](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/math_base/taylor.md)
