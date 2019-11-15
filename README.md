@@ -268,7 +268,7 @@ in Reverse Chronological Order](http://www.cs.toronto.edu/~hinton/papers.html)
 22. [Feature engineering practice](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/practice/code/feature_engineering/feature_engineering.ipynb)
 12. [43 suggestions from google 
 Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_campaign=client_share&from=groupmessage&timestamp=1527027021&app=news_article&utm_source=weixin&isappinstalled=0&iid=33078205423&utm_medium=toutiao_android&wxshare_count=2&pbid=6558572894481008136)
-
+13. [画图神器](alg_base/scikit-plot.md)
 
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
