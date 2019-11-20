@@ -30,6 +30,7 @@ The project mainly consists of 5 parts：
 10. [Regularization](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/regularization.md)
 11. [Feature Normalization](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-02-normalization/)
 12. [Zero-Shot Learning](https://zhuanlan.zhihu.com/p/34656727)
+13. [Xavier init](https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/)
 # Evaluation method
 12. [F1 score](https://baike.baidu.com/item/F1%E5%88%86%E6%95%B0/13864979?fr=aladdin)
 13. [BLUE](https://blog.csdn.net/qq_31584157/article/details/77709454)
