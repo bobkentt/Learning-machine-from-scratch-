@@ -101,6 +101,7 @@ The project mainly consists of 5 parts：
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
 4. [马尔可夫聚类算法 MCL](https://www.cnblogs.com/magle/p/7672957.html)
+5. [Effective community detection with Markov Clustering](https://amethix.com/effective-community-detection-with-markov-clustering/)
 
 **...To be updated...**
 
