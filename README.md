@@ -100,8 +100,7 @@ The project mainly consists of 5 parts：
 1. [Concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_concept.md)
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
-4. [马尔可夫聚类算法 MCL](https://www.cnblogs.com/magle/p/7672957.html)
-5. [Effective community detection with Markov Clustering](https://amethix.com/effective-community-detection-with-markov-clustering/)
+
 
 **...To be updated...**
 
@@ -204,6 +203,12 @@ The project mainly consists of 5 parts：
 38. [对话系统中的自然语言生成技术 四](https://zhuanlan.zhihu.com/p/49197552)
 39. [一文看懂任务型对话系统中的状态追踪 五](https://zhuanlan.zhihu.com/p/51476362)
 40. [NLP领域的数据集](https://zhuanlan.zhihu.com/p/35872084)
+
+## Graph
+1. [Community-detection projcets](https://github.com/lwten/Community-detection/tree/master/CPM%E7%AE%97%E6%B3%95%EF%BC%88clique%20percolation%20method%EF%BC%89)
+2. [MCL python package](https://github.com/GuyAllard/markov_clustering)
+3. [马尔可夫聚类算法 MCL](https://www.cnblogs.com/magle/p/7672957.html)
+4. [Effective community detection with Markov Clustering](https://amethix.com/effective-community-detection-with-markov-clustering/)
 
 ## Papers of DeepLearning
 1. [怎么快速读论文](./alg_base/how_to_read_paper.md)
