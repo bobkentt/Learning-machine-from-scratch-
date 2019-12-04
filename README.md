@@ -209,6 +209,7 @@ The project mainly consists of 5 parts：
 2. [MCL python package](https://github.com/GuyAllard/markov_clustering)
 3. [马尔可夫聚类算法 MCL](https://www.cnblogs.com/magle/p/7672957.html)
 4. [Effective community detection with Markov Clustering](https://amethix.com/effective-community-detection-with-markov-clustering/)
+5. [install noe4j with docker](http://neo4j.com.cn/topic/5d292e6eb2f2eb3c4208cb83)
 
 ## Papers of DeepLearning
 1. [怎么快速读论文](./alg_base/how_to_read_paper.md)
