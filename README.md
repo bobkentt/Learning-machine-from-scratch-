@@ -100,6 +100,7 @@ The project mainly consists of 5 parts：
 1. [Concept](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/cluster_concept.md)
 2. [k-means](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/kmeans.md)
 3. [Hierarchical cluster](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/Hierarchical_cluster.md)
+4. [马尔可夫聚类算法 MCL](https://www.cnblogs.com/magle/p/7672957.html)
 
 **...To be updated...**
 
