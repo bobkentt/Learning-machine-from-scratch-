@@ -203,6 +203,7 @@ The project mainly consists of 5 parts：
 38. [对话系统中的自然语言生成技术 四](https://zhuanlan.zhihu.com/p/49197552)
 39. [一文看懂任务型对话系统中的状态追踪 五](https://zhuanlan.zhihu.com/p/51476362)
 40. [NLP领域的数据集](https://zhuanlan.zhihu.com/p/35872084)
+41. [智能数据分析技术，解锁Excel“对话”新功能 AnnaParser](https://www.msra.cn/zh-cn/news/features/conversational-data-analysis)
 
 ## Graph
 1. [Community-detection projcets](https://github.com/lwten/Community-detection/tree/master/CPM%E7%AE%97%E6%B3%95%EF%BC%88clique%20percolation%20method%EF%BC%89)
