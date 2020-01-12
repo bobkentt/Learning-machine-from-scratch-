@@ -32,8 +32,8 @@ The project mainly consists of 5 parts：
 12. [Zero-Shot Learning](https://zhuanlan.zhihu.com/p/34656727)
 13. [Xavier init](https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/)
 # Evaluation method
-12. [F1 score](https://baike.baidu.com/item/F1%E5%88%86%E6%95%B0/13864979?fr=aladdin)
-13. [BLUE](https://blog.csdn.net/qq_31584157/article/details/77709454)
+14. [F1 score](https://baike.baidu.com/item/F1%E5%88%86%E6%95%B0/13864979?fr=aladdin)
+15. [BLUE](https://blog.csdn.net/qq_31584157/article/details/77709454)
 
 ### Evaluation and testing of models
 1. [Dataset classification](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/dataset_classification.md)
@@ -205,6 +205,7 @@ The project mainly consists of 5 parts：
 40. [NLP领域的数据集](https://zhuanlan.zhihu.com/p/35872084)
 41. [智能数据分析技术，解锁Excel“对话”新功能 AnnaParser](https://www.msra.cn/zh-cn/news/features/conversational-data-analysis)
 42. [IRnet](https://github.com/neeraj-bhat/IRNet/tree/dev)
+43. [自然语言处理基础技术之依存句法分析](https://zhuanlan.zhihu.com/p/51186364)
 
 ## Graph
 1. [Community-detection projcets](https://github.com/lwten/Community-detection/tree/master/CPM%E7%AE%97%E6%B3%95%EF%BC%88clique%20percolation%20method%EF%BC%89)
