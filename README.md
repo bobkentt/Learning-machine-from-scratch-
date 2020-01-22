@@ -208,6 +208,7 @@ The project mainly consists of 5 parts：
 43. [自然语言处理基础技术之依存句法分析](https://zhuanlan.zhihu.com/p/51186364)
 44. [pyltp安装](https://pyltp.readthedocs.io/zh_CN/latest/install.html#id3)
 45. [依存句法分析怎么使用](https://blog.csdn.net/GBA_Eagle/article/details/82189689)
+46. [依存句法关系标注](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/appendix.md)
 
 ## Graph
 1. [Community-detection projcets](https://github.com/lwten/Community-detection/tree/master/CPM%E7%AE%97%E6%B3%95%EF%BC%88clique%20percolation%20method%EF%BC%89)
