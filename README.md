@@ -210,6 +210,12 @@ The project mainly consists of 5 parts：
 45. [依存句法分析怎么使用](https://blog.csdn.net/GBA_Eagle/article/details/82189689)
 46. [依存句法关系标注](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/appendix.md)
 
+### NLP预训练模型
+1. [bert]()
+2. [xlnet]()
+3. [Albert]()
+4. [T5]()
+
 ## Graph
 1. [Community-detection projcets](https://github.com/lwten/Community-detection/tree/master/CPM%E7%AE%97%E6%B3%95%EF%BC%88clique%20percolation%20method%EF%BC%89)
 2. [MCL python package](https://github.com/GuyAllard/markov_clustering)
