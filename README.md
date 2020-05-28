@@ -209,6 +209,7 @@ The project mainly consists of 5 parts：
 44. [pyltp安装](https://pyltp.readthedocs.io/zh_CN/latest/install.html#id3)
 45. [依存句法分析怎么使用](https://blog.csdn.net/GBA_Eagle/article/details/82189689)
 46. [依存句法关系标注](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/appendix.md)
+47. [19年挺好的综述性文章](https://tech.sina.com.cn/roll/2020-02-22/doc-iimxyqvz4943266.shtml)
 
 ### NLP预训练模型
 1. [bert]()
