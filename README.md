@@ -211,6 +211,7 @@ The project mainly consists of 5 parts：
 46. [依存句法关系标注](https://github.com/bobkentt/Learning-machine-from-scratch-/blob/master/alg_base/appendix.md)
 47. [19年挺好的综述性文章](https://tech.sina.com.cn/roll/2020-02-22/doc-iimxyqvz4943266.shtml)
 48. [百分点出品的增强分析产品](https://www.infoq.cn/article/XqGE7RC4wcOA1fOaD5Cy)
+49. [Brat标注](https://languageresources.github.io/2018/06/24/%E6%9D%9C%E6%88%90%E7%8E%89_BRAT%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/)
 
 ### NLP预训练模型
 1. [bert]()
