@@ -213,6 +213,7 @@ The project mainly consists of 5 parts：
 48. [百分点出品的增强分析产品](https://www.infoq.cn/article/XqGE7RC4wcOA1fOaD5Cy)
 49. [Brat标注](https://languageresources.github.io/2018/06/24/%E6%9D%9C%E6%88%90%E7%8E%89_BRAT%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/)
 50. [盘点AI国际顶级会议](https://zhuanlan.zhihu.com/p/51749414)
+51. [wikiSQL-数据形式](https://www.jianshu.com/p/ab5b4e7e438c)
 
 ### NLP预训练模型
 1. [bert]()
