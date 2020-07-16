@@ -215,6 +215,7 @@ The project mainly consists of 5 parts：
 50. [盘点AI国际顶级会议](https://zhuanlan.zhihu.com/p/51749414)
 51. [wikiSQL-数据形式](https://www.jianshu.com/p/ab5b4e7e438c)
 52. [论文openreview的网站](https://openreview.net)
+53. [数据增强](https://www.jiqizhixin.com/articles/2019-12-04-10)
 
 ### NLP预训练模型
 1. [bert]()
