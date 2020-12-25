@@ -217,6 +217,7 @@ The project mainly consists of 5 parts：
 52. [论文openreview的网站](https://openreview.net)
 53. [数据增强](https://www.jiqizhixin.com/articles/2019-12-04-10)
 54. [data augmentation](https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28)
+55. [nl2sql sota 方法总结](./papers/nl2sql.pdf)
 
 ### NLP预训练模型
 1. [bert]()
