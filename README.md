@@ -88,7 +88,7 @@ The project mainly consists of 5 parts：
 1. [Bayesian decision theory](http://www.bayesia.com/bayesian-networks-introduction)
 2. [Bayesian network](http://www.bayesia.com/bayesian-networks-examples)
 3. [Naive Bayesian with python](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
-4. [HMM](https://applenob.github.io/hmm.html)
+4. [HMM](https://applenob.github.io/machine_learning/HMM/)
 5. [LDA](https://datartisan.gitbooks.io/begining-text-mining-with-python/content/%E7%AC%AC7%E7%AB%A0%20%E4%B8%BB%E9%A2%98%E6%A8%A1%E5%9E%8B/7.2%20LDA.html)
 
 **...To be updated...**
