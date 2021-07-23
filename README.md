@@ -301,6 +301,7 @@ Experience](https://www.toutiao.com/i6558246464898728455/?tt_from=weixin&utm_cam
 13. [画图神器](alg_base/scikit-plot.md)
 14. [mars](https://github.com/mars-project/mars)
 15. [yaml](https://www.ruanyifeng.com/blog/2016/07/yaml.html)
+16. [chunk with huggingface的transformers](https://zhuanlan.zhihu.com/p/372989614)
 
 ## License
 This project is licensed under the BSD 3-Clause license, so it can be used for pretty much everything, including commercial applications. Please let us know how Surprise is useful to you!
